@@ -59,6 +59,10 @@
   ],
   "license": "ISC",
   "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js",
+    "./optimized": "./src/index-optimized.js"
+  },
   "name": "geojson-places",
   "repository": {
     "type": "git",
@@ -67,6 +71,7 @@
   "scripts": {
     "test": "tape ./test/*spec.js | tap-spec",
     "build": "node ./src/build.js",
+    "build:optimize": "node ./src/optimize.js",
     "lint": "eslint . --ext .js"
   },
   "version": "1.0.8",

@@ -17,6 +17,55 @@ This module can do the following tasks:
 npm install --save geojson-places
 ```
 
+## Optimization for Specific Countries
+
+This fork includes optimization for specific countries to reduce memory usage from ~39MB to ~5MB. The optimization is designed for applications that only need data for US, Canada, Mexico, India, and Australia.
+
+### Using the Optimized Version
+
+```javascript
+// Use the optimized version (requires build step)
+const geojsonPlaces = require('geojson-places/optimized');
+
+// Configure with caching
+geojsonPlaces.configure({
+    cacheSize: 50 * 1024 * 1024 // 50MB cache
+});
+
+// Use normally
+const result = geojsonPlaces.lookUp(40.7128, -74.0060); // New York
+```
+
+### Building Optimized Data
+
+Before using the optimized version, you need to generate the optimized data files:
+
+```bash
+npm run build:optimize
+```
+
+This will create optimized data files in `/data/optimized/` containing only data for the supported countries.
+
+### Performance Comparison
+
+| Metric | Original | Optimized | Improvement |
+|--------|----------|-----------|-------------|
+| Memory Usage | ~39MB | ~5MB | 87% reduction |
+| Supported Countries | 240 | 5 | US, CA, MX, IN, AU |
+| Admin1 Features | 4,596 | 149 | 97% reduction |
+
+### Cache Management
+
+The optimized version includes LRU caching:
+
+```javascript
+// Get cache statistics
+console.log(geojsonPlaces.getCacheStats());
+
+// Clear cache
+geojsonPlaces.clearCache();
+```
+
 ## API implementation
 
 I have prepared a complete implementation of the library to consume from a Node based API [geojson-places-api](https://github.com/rapomon/geojson-places-api), as an example or to deploy in a production environment. The API is developed with the [Fastify](https://www.fastify.io) framework.

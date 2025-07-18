@@ -1,0 +1,7114 @@
+[
+  {
+    "country_a2": "AU",
+    "region_code": "AU-AS",
+    "region_name": "Ashmore and Cartier Islands",
+    "states": [
+      {
+        "state_code": "AU-X04",
+        "state_name": "Ashmore and Cartier Islands",
+        "i18n": {
+          "ar": "جزر أشمور وكارتيير",
+          "bn": "আশমোর অ্যান্ড কার্তিয়ের আইল্যান্ড",
+          "de": "Ashmore- und Cartierinseln",
+          "el": "Νήσοι Άσμορ και Καρτιέ",
+          "en": "Ashmore and Cartier Islands",
+          "es": "Islas Ashmore y Cartier",
+          "fa": "جزایر آشمور و کارتیر",
+          "fr": "Îles Ashmore-et-Cartier",
+          "he": "איי אשמור וקרטייה",
+          "hi": "एशमोर और कार्टियर द्वीप",
+          "hu": "Ashmore- és Cartier-szigetek",
+          "id": "Kepulauan Ashmore dan Cartier",
+          "it": "Isole Ashmore e Cartier",
+          "ja": "アシュモア・カルティエ諸島",
+          "ko": "애쉬모어 앤 까르띠에 아일랜즈",
+          "nl": "Ashmore- en Cartiereilanden",
+          "pl": "Wyspy Ashmore i Cartiera",
+          "pt": "Ilhas Ashmore e Cartier",
+          "ru": "Острова Ашмор и Картье",
+          "sv": "Ashmore- och Cartieröarna",
+          "tr": "Ashmore ve Cartier Adaları",
+          "uk": "Острови Ешмор і Картьє",
+          "ur": "ایشمور اور کارٹیئر جزائر",
+          "vi": "Quần đảo Ashmore và Cartier",
+          "zh": "阿什莫尔和卡地亚群岛",
+          "zht": "亞什摩及卡地爾群島"
+        }
+      }
+    ]
+  },
+  {
+    "country_a2": "AU",
+    "region_code": "AU-WA",
+    "region_name": "Australia",
+    "states": [
+      {
+        "state_code": "AU-WA",
+        "state_name": "Western Australia",
+        "i18n": {
+          "ar": "أستراليا الغربية",
+          "bn": "পশ্চিম অস্ট্রেলিয়া",
+          "de": "Western Australia",
+          "el": "Δυτική Αυστραλία",
+          "en": "Western Australia",
+          "es": "Australia Occidental",
+          "fa": "استرالیای غربی",
+          "fr": "Australie-Occidentale",
+          "he": "אוסטרליה המערבית",
+          "hi": "पश्चिमी ऑस्ट्रेलिया",
+          "hu": "Nyugat-Ausztrália",
+          "id": "Australia Barat",
+          "it": "Australia Occidentale",
+          "ja": "西オーストラリア州",
+          "ko": "웨스턴오스트레일리아",
+          "nl": "West-Australië",
+          "pl": "Australia Zachodnia",
+          "pt": "Austrália Ocidental",
+          "ru": "Западная Австралия",
+          "sv": "Western Australia",
+          "tr": "Batı Avustralya",
+          "uk": "Західна Австралія",
+          "ur": "مغربی آسٹریلیا",
+          "vi": "Tây Úc",
+          "zh": "西澳大利亚州",
+          "zht": "西澳州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Западная Австралия",
+      "en": "Western Australia",
+      "ar": "أستراليا الغربية",
+      "de": "Western Australia",
+      "es": "Australia Occidental",
+      "fr": "Australie-Occidentale",
+      "it": "Australia Occidentale",
+      "zh": "西澳大利亚州"
+    }
+  },
+  {
+    "country_a2": "AU",
+    "region_code": "AU-NT",
+    "region_name": "Australia",
+    "states": [
+      {
+        "state_code": "AU-NT",
+        "state_name": "Northern Territory",
+        "i18n": {
+          "ar": "إقليم شمالي",
+          "bn": "উত্তর অঞ্চল",
+          "de": "Northern Territory",
+          "el": "Βόρεια Επικράτεια",
+          "en": "Northern Territory",
+          "es": "Territorio del Norte",
+          "fa": "قلمرو شمالی",
+          "fr": "Territoire du Nord",
+          "he": "הטריטוריה הצפונית",
+          "hi": "नॉर्थर्न टेरिटरी",
+          "hu": "Északi terület",
+          "id": "Wilayah Utara",
+          "it": "Territorio del Nord",
+          "ja": "ノーザンテリトリー",
+          "ko": "노던 준",
+          "nl": "Noordelijk Territorium",
+          "pl": "Terytorium Północne",
+          "pt": "Território do Norte",
+          "ru": "Северная территория",
+          "sv": "Northern Territory",
+          "tr": "Kuzey Toprakları",
+          "uk": "Північна територія",
+          "ur": "شمالی علاقہ",
+          "vi": "Lãnh thổ Bắc Úc",
+          "zh": "北领地",
+          "zht": "北領地"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Северная территория",
+      "en": "Northern Territory",
+      "ar": "إقليم شمالي",
+      "de": "Northern Territory",
+      "es": "Territorio del Norte",
+      "fr": "Territoire du Nord",
+      "it": "Territorio del Nord",
+      "zh": "北領地"
+    }
+  },
+  {
+    "country_a2": "AU",
+    "region_code": "AU-SA",
+    "region_name": "Australia",
+    "states": [
+      {
+        "state_code": "AU-SA",
+        "state_name": "South Australia",
+        "i18n": {
+          "ar": "جنوب أستراليا",
+          "bn": "দক্ষিণ অস্ট্রেলিয়া",
+          "de": "South Australia",
+          "el": "Νότια Αυστραλία",
+          "en": "South Australia",
+          "es": "Australia Meridional",
+          "fa": "استرالیای جنوبی",
+          "fr": "Australie-Méridionale",
+          "he": "אוסטרליה הדרומית",
+          "hi": "दक्षिण ऑस्ट्रेलिया",
+          "hu": "Dél-Ausztrália",
+          "id": "Australia Selatan",
+          "it": "Australia Meridionale",
+          "ja": "南オーストラリア州",
+          "ko": "사우스오스트레일리아",
+          "nl": "Zuid-Australië",
+          "pl": "Australia Południowa",
+          "pt": "Austrália Meridional",
+          "ru": "Южная Австралия",
+          "sv": "South Australia",
+          "tr": "Güney Avustralya",
+          "uk": "Південна Австралія",
+          "ur": "جنوبی آسٹریلیا",
+          "vi": "Nam Úc",
+          "zh": "南澳大利亚州",
+          "zht": "南澳州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Южная Австралия",
+      "en": "South Australia",
+      "ar": "جنوب أستراليا",
+      "de": "South Australia",
+      "es": "Australia Meridional",
+      "fr": "Australie-Méridionale",
+      "it": "Australia Meridionale",
+      "zh": "南澳大利亚州"
+    }
+  },
+  {
+    "country_a2": "AU",
+    "region_code": "AU-QL",
+    "region_name": "Australia",
+    "states": [
+      {
+        "state_code": "AU-QLD",
+        "state_name": "Queensland",
+        "i18n": {
+          "ar": "كوينزلاند",
+          "bn": "কুইন্সল্যান্ড",
+          "de": "Queensland",
+          "el": "Κουίνσλαντ",
+          "en": "Queensland",
+          "es": "Queensland",
+          "fa": "کوئینزلند",
+          "fr": "Queensland",
+          "he": "קווינסלנד",
+          "hi": "क्वीन्सलैण्ड",
+          "hu": "Queensland",
+          "id": "Queensland",
+          "it": "Queensland",
+          "ja": "クイーンズランド州",
+          "ko": "퀸즐랜드",
+          "nl": "Queensland",
+          "pl": "Queensland",
+          "pt": "Queensland",
+          "ru": "Квинсленд",
+          "sv": "Queensland",
+          "tr": "Queensland",
+          "uk": "Квінсленд",
+          "ur": "کوئنزلینڈ",
+          "vi": "Queensland",
+          "zh": "昆士兰州",
+          "zht": "昆士蘭州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Квинсленд",
+      "en": "Queensland",
+      "ar": "كوينزلاند",
+      "de": "Queensland",
+      "es": "Queensland",
+      "fr": "Queensland",
+      "it": "Queensland",
+      "zh": "昆士蘭州"
+    }
+  },
+  {
+    "country_a2": "AU",
+    "region_code": "AU-NS",
+    "region_name": "Australia",
+    "states": [
+      {
+        "state_code": "AU-NSW",
+        "state_name": "New South Wales",
+        "i18n": {
+          "ar": "نيوساوث ويلز",
+          "bn": "নিউ সাউথ ওয়েল্স",
+          "de": "New South Wales",
+          "el": "Νέα Νότια Ουαλία",
+          "en": "New South Wales",
+          "es": "Nueva Gales del Sur",
+          "fa": "نیو ساوت ولز",
+          "fr": "Nouvelle-Galles du Sud",
+          "he": "ניו סאות' ויילס",
+          "hi": "न्यू साउथ वेल्स",
+          "hu": "Új-Dél-Wales",
+          "id": "New South Wales",
+          "it": "Nuovo Galles del Sud",
+          "ja": "ニューサウスウェールズ州",
+          "ko": "뉴사우스웨일스",
+          "nl": "Nieuw-Zuid-Wales",
+          "pl": "Nowa Południowa Walia",
+          "pt": "Nova Gales do Sul",
+          "ru": "Новый Южный Уэльс",
+          "sv": "New South Wales",
+          "tr": "Yeni Güney Galler",
+          "uk": "Новий Південний Уельс",
+          "ur": "نیو ساؤتھ ویلز",
+          "vi": "New South Wales",
+          "zh": "新南威尔士州",
+          "zht": "新南威爾斯州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Новый Южный Уэльс",
+      "en": "New South Wales",
+      "ar": "نيوساوث ويلز",
+      "de": "New South Wales",
+      "es": "Nueva Gales del Sur",
+      "fr": "Nouvelle-Galles du Sud",
+      "it": "Nuovo Galles del Sud",
+      "zh": "新南威爾士州"
+    }
+  },
+  {
+    "country_a2": "AU",
+    "region_code": "AU-JB",
+    "region_name": "Australia",
+    "states": [
+      {
+        "state_code": "AU-X02",
+        "state_name": "Jervis Bay Territory",
+        "i18n": {
+          "ar": "إقليم خليج جرفيس",
+          "bn": "জার্ভিস বে টেরিটোরি",
+          "de": "Jervis Bay Territory",
+          "el": "Επικράτεια Όρμου Τζέρβις",
+          "en": "Jervis Bay Territory",
+          "es": "Territorio de Jervis Bay",
+          "fa": "قلمروی خلیج جرویس",
+          "fr": "Territoire de la baie de Jervis",
+          "he": "טריטוריית מפרץ ג'רביס",
+          "hi": "जर्विस बे टेरिटरी",
+          "hu": "Jervis Bay Territory",
+          "id": "Wilayah Teluk Jervis",
+          "it": "Territorio della Baia di Jervis",
+          "ja": "ジャービス湾特別地域",
+          "ko": "저비스베이 준",
+          "nl": "Jervis Bay Territorium",
+          "pl": "Jervis Bay Territory",
+          "pt": "Território da Baía Jervis",
+          "ru": "Территория Джервис-Бей",
+          "sv": "Jervis Bay Territory",
+          "tr": "Jervis Bay Toprağı",
+          "uk": "Територія Джервіс-Бей",
+          "ur": "خلیج جروس علاقہ",
+          "vi": "Lãnh thổ Vịnh Jervis",
+          "zh": "傑維斯灣地區",
+          "zht": "傑維斯灣地區"
+        }
+      }
+    ]
+  },
+  {
+    "country_a2": "AU",
+    "region_code": "AU-VI",
+    "region_name": "Australia",
+    "states": [
+      {
+        "state_code": "AU-VIC",
+        "state_name": "Victoria",
+        "i18n": {
+          "ar": "ولاية فيكتوريا",
+          "bn": "ভিক্টোরিয়া",
+          "de": "Victoria",
+          "el": "Βικτώρια",
+          "en": "Victoria",
+          "es": "Victoria",
+          "fa": "ویکتوریا",
+          "fr": "Victoria",
+          "he": "ויקטוריה",
+          "hi": "विक्टोरिया",
+          "hu": "Victoria",
+          "id": "Victoria",
+          "it": "Victoria",
+          "ja": "ビクトリア州",
+          "ko": "빅토리아",
+          "nl": "Victoria",
+          "pl": "Wiktoria",
+          "pt": "Vitória",
+          "ru": "Виктория",
+          "sv": "Victoria",
+          "tr": "Victoria",
+          "uk": "Вікторія",
+          "ur": "وکٹوریہ",
+          "vi": "Victoria",
+          "zh": "维多利亚州",
+          "zht": "維多利亞省"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Виктория",
+      "en": "Victoria",
+      "ar": "فيكتوريا",
+      "de": "Victoria",
+      "es": "Victoria",
+      "fr": "Victoria",
+      "it": "Victoria",
+      "zh": "維多利亞州"
+    }
+  },
+  {
+    "country_a2": "AU",
+    "region_code": "AU-TS",
+    "region_name": "Australia",
+    "states": [
+      {
+        "state_code": "AU-TAS",
+        "state_name": "Tasmania",
+        "i18n": {
+          "ar": "تاسمانيا",
+          "bn": "তাসমানিয়া",
+          "de": "Tasmanien",
+          "el": "Τασμανία",
+          "en": "Tasmania",
+          "es": "Tasmania",
+          "fa": "تاسمانی",
+          "fr": "Tasmanie",
+          "he": "טסמניה",
+          "hi": "टासमानिया",
+          "hu": "Tasmania",
+          "id": "Tasmania",
+          "it": "Tasmania",
+          "ja": "タスマニア州",
+          "ko": "태즈메이니아",
+          "nl": "Tasmanië",
+          "pl": "Tasmania",
+          "pt": "Tasmânia",
+          "ru": "Тасмания",
+          "sv": "Tasmanien",
+          "tr": "Tasmanya",
+          "uk": "Тасманія",
+          "ur": "تسمانیا",
+          "vi": "Tasmania",
+          "zh": "塔斯马尼亚州",
+          "zht": "塔斯馬尼亞州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Тасмания",
+      "en": "Tasmania",
+      "ar": "تسمانيا",
+      "de": "Tasmanien",
+      "es": "Tasmania",
+      "fr": "Tasmanie",
+      "it": "Tasmania",
+      "zh": "塔斯馬尼亞州"
+    }
+  },
+  {
+    "country_a2": "AU",
+    "region_code": "AU-MI",
+    "region_name": "Australia",
+    "states": [
+      {
+        "state_code": "AU-X03",
+        "state_name": "Macquarie Island",
+        "i18n": {
+          "ar": "جزيرة ماكواري",
+          "bn": "ম্যাককুয়ারি আইল্যান্ড",
+          "de": "Macquarieinsel",
+          "el": "Νήσος Μακουάρι",
+          "en": "Macquarie Island",
+          "es": "Isla Macquarie",
+          "fa": "جزیره مککواری",
+          "fr": "Île Macquarie",
+          "he": "מקווארי",
+          "hi": "मैक्वेरी द्वीप",
+          "hu": "Macquarie-sziget",
+          "id": "Pulau Macquarie",
+          "it": "Isola Macquarie",
+          "ja": "マッコーリー島",
+          "ko": "맥쿼리 섬",
+          "nl": "Macquarie-eiland",
+          "pl": "Macquarie",
+          "pt": "Ilha Macquarie",
+          "ru": "Маккуори",
+          "sv": "Macquarieön",
+          "tr": "Macquarie Adası",
+          "uk": "Маккуорі",
+          "ur": "جزیره مکواری",
+          "vi": "Đảo Macquarie",
+          "zh": "麦夸里岛",
+          "zht": "麥覺理島"
+        }
+      }
+    ]
+  },
+  {
+    "country_a2": "AU",
+    "region_code": "AU-AC",
+    "region_name": "Australia",
+    "states": [
+      {
+        "state_code": "AU-ACT",
+        "state_name": "Australian Capital Territory",
+        "i18n": {
+          "ar": "مقاطعة العاصمة الأسترالية",
+          "bn": "অস্ট্রেলীয় রাজধানী অঞ্চল",
+          "de": "Australian Capital Territory",
+          "el": "Επικράτεια Αυστραλιανής Πρωτεύουσας",
+          "en": "Australian Capital Territory",
+          "es": "Territorio de la Capital Australiana",
+          "fa": "قلمرو پایتختی استرالیا",
+          "fr": "Territoire de la capitale australienne",
+          "he": "טריטוריית הבירה האוסטרלית",
+          "hi": "ऑस्ट्रेलियाई राजधानी क्षेत्र",
+          "hu": "Ausztráliai fővárosi terület",
+          "id": "Wilayah Ibu Kota Australia",
+          "it": "Territorio della Capitale Australiana",
+          "ja": "オーストラリア首都特別地域",
+          "ko": "오스트레일리아 수도 준",
+          "nl": "Australian Capital Territory",
+          "pl": "Australijskie Terytorium Stołeczne",
+          "pt": "Território da Capital Australiana",
+          "ru": "Австралийская столичная территория",
+          "sv": "Australian Capital Territory",
+          "tr": "Avustralya Başkent Bölgesi",
+          "uk": "Австралійська столична територія",
+          "ur": "آسٹریلوی دارالحکومت علاقہ",
+          "vi": "Lãnh thổ Thủ đô Úc",
+          "zh": "澳大利亚首都特区",
+          "zht": "澳大利亞首都特區"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Австралийская столичная территория",
+      "en": "Australian Capital Territory",
+      "de": "Australian Capital Territory",
+      "es": "Territorio de la Capital Australiana",
+      "fr": "Territoire de la capitale australienne",
+      "it": "Territorio della Capitale Australiana",
+      "zh": "澳大利亚首都领地"
+    }
+  },
+  {
+    "country_a2": "CA",
+    "region_code": "CA-BC",
+    "region_name": "Canada",
+    "states": [
+      {
+        "state_code": "CA-BC",
+        "state_name": "British Columbia",
+        "i18n": {
+          "ar": "كولومبيا البريطانية",
+          "bn": "ব্রিটিশ কলাম্বিয়া",
+          "de": "British Columbia",
+          "el": "Βρετανική Κολομβία",
+          "en": "British Columbia",
+          "es": "Columbia Británica",
+          "fa": "بریتیش کلمبیا",
+          "fr": "Colombie-Britannique",
+          "he": "קולומביה הבריטית",
+          "hi": "ब्रिटिश कोलम्बिया",
+          "hu": "Brit Columbia",
+          "id": "British Columbia",
+          "it": "Columbia Britannica",
+          "ja": "ブリティッシュコロンビア州",
+          "ko": "브리티시컬럼비아",
+          "nl": "Brits-Columbia",
+          "pl": "Kolumbia Brytyjska",
+          "pt": "Colúmbia Britânica",
+          "ru": "Британская Колумбия",
+          "sv": "British Columbia",
+          "tr": "Britanya Kolumbiyası",
+          "uk": "Британська Колумбія",
+          "ur": "برٹش کولمبیا",
+          "vi": "British Columbia",
+          "zh": "不列颠哥伦比亚",
+          "zht": "不列顛哥倫比亞省"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Британская Колумбия",
+      "en": "British Columbia",
+      "ar": "كولومبيا البريطانية",
+      "de": "British Columbia",
+      "es": "Columbia Británica",
+      "fr": "Colombie-Britannique",
+      "it": "Columbia Britannica",
+      "zh": "不列颠哥伦比亚"
+    }
+  },
+  {
+    "country_a2": "CA",
+    "region_code": "CA-AB",
+    "region_name": "Canada",
+    "states": [
+      {
+        "state_code": "CA-AB",
+        "state_name": "Alberta",
+        "i18n": {
+          "ar": "ألبرتا",
+          "bn": "অ্যালবার্টা",
+          "de": "Alberta",
+          "el": "Αλμπέρτα",
+          "en": "Alberta",
+          "es": "Alberta",
+          "fa": "آلبرتا",
+          "fr": "Alberta",
+          "he": "אלברטה",
+          "hi": "अल्बर्टा",
+          "hu": "Alberta",
+          "id": "Alberta",
+          "it": "Alberta",
+          "ja": "アルバータ州",
+          "ko": "앨버타",
+          "nl": "Alberta",
+          "pl": "Alberta",
+          "pt": "Alberta",
+          "ru": "Альберта",
+          "sv": "Alberta",
+          "tr": "Alberta",
+          "uk": "Альберта",
+          "ur": "البرٹا",
+          "vi": "Alberta",
+          "zh": "阿尔伯塔省",
+          "zht": "亞伯達省"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Альберта",
+      "en": "Alberta",
+      "ar": "ألبرتا",
+      "de": "Alberta",
+      "es": "Alberta",
+      "fr": "Alberta",
+      "it": "Alberta",
+      "zh": "艾伯塔"
+    }
+  },
+  {
+    "country_a2": "CA",
+    "region_code": "CA-SK",
+    "region_name": "Canada",
+    "states": [
+      {
+        "state_code": "CA-SK",
+        "state_name": "Saskatchewan",
+        "i18n": {
+          "ar": "ساسكاتشوان",
+          "bn": "সাসক্যাচুয়ান",
+          "de": "Saskatchewan",
+          "el": "Σασκάτσουαν",
+          "en": "Saskatchewan",
+          "es": "Saskatchewan",
+          "fa": "سسکچوان",
+          "fr": "Saskatchewan",
+          "he": "ססקצ'ואן",
+          "hi": "सैस्कैचेवेन",
+          "hu": "Saskatchewan",
+          "id": "Saskatchewan",
+          "it": "Saskatchewan",
+          "ja": "サスカチュワン州",
+          "ko": "서스캐처원",
+          "nl": "Saskatchewan",
+          "pl": "Saskatchewan",
+          "pt": "Saskatchewan",
+          "ru": "Саскачеван",
+          "sv": "Saskatchewan",
+          "tr": "Saskatchewan",
+          "uk": "Саскачеван",
+          "ur": "ساسکچیوان",
+          "vi": "Saskatchewan",
+          "zh": "萨斯喀彻温",
+          "zht": "薩斯喀徹溫"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Саскачеван",
+      "en": "Saskatchewan",
+      "ar": "ساسكاتشوان",
+      "de": "Saskatchewan",
+      "es": "Saskatchewan",
+      "fr": "Saskatchewan",
+      "it": "Saskatchewan",
+      "zh": "薩斯喀徹溫"
+    }
+  },
+  {
+    "country_a2": "CA",
+    "region_code": "CA-MB",
+    "region_name": "Canada",
+    "states": [
+      {
+        "state_code": "CA-MB",
+        "state_name": "Manitoba",
+        "i18n": {
+          "ar": "مانيتوبا",
+          "bn": "ম্যানিটোবা",
+          "de": "Manitoba",
+          "el": "Μανιτόμπα",
+          "en": "Manitoba",
+          "es": "Manitoba",
+          "fa": "مانیتوبا",
+          "fr": "Manitoba",
+          "he": "מניטובה",
+          "hi": "मानिटोबा",
+          "hu": "Manitoba",
+          "id": "Manitoba",
+          "it": "Manitoba",
+          "ja": "マニトバ州",
+          "ko": "매니토바",
+          "nl": "Manitoba",
+          "pl": "Manitoba",
+          "pt": "Manitoba",
+          "ru": "Манитоба",
+          "sv": "Manitoba",
+          "tr": "Manitoba",
+          "uk": "Манітоба",
+          "ur": "مانیٹوبا",
+          "vi": "Manitoba",
+          "zh": "曼尼托巴",
+          "zht": "曼尼托巴省"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Манитоба",
+      "en": "Manitoba",
+      "ar": "مانيتوبا",
+      "de": "Manitoba",
+      "es": "Manitoba",
+      "fr": "Manitoba",
+      "it": "Manitoba",
+      "zh": "曼尼托巴"
+    }
+  },
+  {
+    "country_a2": "CA",
+    "region_code": "CA-ON",
+    "region_name": "Canada",
+    "states": [
+      {
+        "state_code": "CA-ON",
+        "state_name": "Ontario",
+        "i18n": {
+          "ar": "أونتاريو",
+          "bn": "অন্টারিও",
+          "de": "Ontario",
+          "el": "Οντάριο",
+          "en": "Ontario",
+          "es": "Ontario",
+          "fa": "انتاریو",
+          "fr": "Ontario",
+          "he": "אונטריו",
+          "hi": "ओण्टारियो",
+          "hu": "Ontario",
+          "id": "Ontario",
+          "it": "Ontario",
+          "ja": "オンタリオ州",
+          "ko": "온타리오",
+          "nl": "Ontario",
+          "pl": "Ontario",
+          "pt": "Ontário",
+          "ru": "Онтарио",
+          "sv": "Ontario",
+          "tr": "Ontario",
+          "uk": "Онтаріо",
+          "ur": "انٹاریو",
+          "vi": "Ontario",
+          "zh": "安大略省",
+          "zht": "安大略省"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Онтарио",
+      "en": "Ontario",
+      "ar": "أونتاريو",
+      "de": "Ontario",
+      "es": "Ontario",
+      "fr": "Ontario",
+      "it": "Ontario",
+      "zh": "安大略"
+    }
+  },
+  {
+    "country_a2": "CA",
+    "region_code": "CA-QC",
+    "region_name": "Canada",
+    "states": [
+      {
+        "state_code": "CA-QC",
+        "state_name": "Québec",
+        "i18n": {
+          "ar": "كيبك",
+          "bn": "কেবেক",
+          "de": "Québec",
+          "el": "Κεμπέκ",
+          "en": "Quebec",
+          "es": "Quebec",
+          "fa": "استان کبک",
+          "fr": "Québec",
+          "he": "קוויבק",
+          "hi": "क्यूबेक",
+          "hu": "Québec",
+          "id": "Quebec",
+          "it": "Québec",
+          "ja": "ケベック州",
+          "ko": "퀘벡",
+          "nl": "Quebec",
+          "pl": "Quebec",
+          "pt": "Quebeque",
+          "ru": "Квебек",
+          "sv": "Québec",
+          "tr": "Québec",
+          "uk": "Квебек",
+          "ur": "کیوبیک",
+          "vi": "Québec",
+          "zh": "魁北克",
+          "zht": "魁北克"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Квебек",
+      "en": "Quebec",
+      "ar": "كيبك",
+      "de": "Québec",
+      "es": "Quebec",
+      "fr": "Québec",
+      "it": "Québec",
+      "zh": "魁北克"
+    }
+  },
+  {
+    "country_a2": "CA",
+    "region_code": "CA-NB",
+    "region_name": "Canada",
+    "states": [
+      {
+        "state_code": "CA-NB",
+        "state_name": "New Brunswick",
+        "i18n": {
+          "ar": "نيو برونزويك",
+          "bn": "নিউ ব্রান্সউইক",
+          "de": "New Brunswick",
+          "el": "Νιου Μπράνσγουικ",
+          "en": "New Brunswick",
+          "es": "Nuevo Brunswick",
+          "fa": "نیوبرانزویک",
+          "fr": "Nouveau-Brunswick",
+          "he": "ניו ברנזוויק",
+          "hi": "न्यू ब्रंसविक",
+          "hu": "Új-Brunswick",
+          "id": "New Brunswick",
+          "it": "Nuovo Brunswick",
+          "ja": "ニュー・ブランズウィック州",
+          "ko": "뉴브런즈윅",
+          "nl": "New Brunswick",
+          "pl": "Nowy Brunszwik",
+          "pt": "Novo Brunswick",
+          "ru": "Нью-Брансуик",
+          "sv": "New Brunswick",
+          "tr": "New Brunswick",
+          "uk": "Нью-Брансвік",
+          "ur": "نیو برنزویک",
+          "vi": "New Brunswick",
+          "zh": "新不伦瑞克",
+          "zht": "新不倫瑞克"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Нью-Брансуик",
+      "en": "New Brunswick",
+      "ar": "نيو برونزويك",
+      "de": "New Brunswick",
+      "es": "Nuevo Brunswick",
+      "fr": "Nouveau-Brunswick",
+      "it": "Nuovo Brunswick",
+      "zh": "新不倫瑞克"
+    }
+  },
+  {
+    "country_a2": "CA",
+    "region_code": "CA-NF",
+    "region_name": "Canada",
+    "states": [
+      {
+        "state_code": "CA-NL",
+        "state_name": "Newfoundland and Labrador",
+        "i18n": {
+          "ar": "نيوفندلاند ولابرادور",
+          "bn": "নিউফাউন্ডল্যান্ড ও লাব্রাডর",
+          "de": "Neufundland und Labrador",
+          "el": "Νέα Γη και Λαμπραντόρ",
+          "en": "Newfoundland and Labrador",
+          "es": "Terranova y Labrador",
+          "fa": "نیوفاندلند و لابرادور",
+          "fr": "Terre-Neuve-et-Labrador",
+          "he": "ניופאונדלנד ולברדור",
+          "hi": "न्यूफाउंडलैंड और लैब्राडोर",
+          "hu": "Új-Fundland és Labrador",
+          "id": "Newfoundland dan Labrador",
+          "it": "Terranova e Labrador",
+          "ja": "ニューファンドランド・ラブラドール州",
+          "ko": "뉴펀들랜드래브라도",
+          "nl": "Newfoundland en Labrador",
+          "pl": "Nowa Fundlandia i Labrador",
+          "pt": "Terra Nova e Labrador",
+          "ru": "Ньюфаундленд и Лабрадор",
+          "sv": "Newfoundland och Labrador",
+          "tr": "Newfoundland ve Labrador",
+          "uk": "Ньюфаундленд і Лабрадор",
+          "ur": "نیو فاؤنڈ لینڈ اور لیبراڈور",
+          "vi": "Newfoundland và Labrador",
+          "zh": "纽芬兰-拉布拉多",
+          "zht": "紐芬蘭-拉布拉多"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Ньюфаундленд и Лабрадор",
+      "en": "Newfoundland and Labrador",
+      "ar": "نيوفاوندلاند واللابرادور",
+      "de": "Neufundland und Labrador",
+      "es": "Terranova y Labrador",
+      "fr": "Terre-Neuve-et-Labrador",
+      "it": "Terranova e Labrador",
+      "zh": "紐芬蘭與拉布拉多"
+    }
+  },
+  {
+    "country_a2": "CA",
+    "region_code": "CA-NS",
+    "region_name": "Canada",
+    "states": [
+      {
+        "state_code": "CA-NS",
+        "state_name": "Nova Scotia",
+        "i18n": {
+          "ar": "نوفا سكوشا",
+          "bn": "নোভা স্কোশিয়া",
+          "de": "Nova Scotia",
+          "el": "Νέα Σκωτία",
+          "en": "Nova Scotia",
+          "es": "Nueva Escocia",
+          "fa": "نوا اسکوشیا",
+          "fr": "Nouvelle-Écosse",
+          "he": "נובה סקוטיה",
+          "hi": "नोवा स्कॉटिया",
+          "hu": "Új-Skócia",
+          "id": "Nova Scotia",
+          "it": "Nuova Scozia",
+          "ja": "ノバスコシア州",
+          "ko": "노바스코샤",
+          "nl": "Nova Scotia",
+          "pl": "Nowa Szkocja",
+          "pt": "Nova Escócia",
+          "ru": "Новая Шотландия",
+          "sv": "Nova Scotia",
+          "tr": "Yeni İskoçya",
+          "uk": "Нова Шотландія",
+          "ur": "نووا سکوشیا",
+          "vi": "Nova Scotia",
+          "zh": "新斯科舍",
+          "zht": "新斯科舍"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Новая Шотландия",
+      "en": "Nova Scotia",
+      "ar": "نوفا سكوشا",
+      "de": "Nova Scotia",
+      "es": "Nueva Escocia",
+      "fr": "Nouvelle-Écosse",
+      "it": "Nuova Scozia",
+      "zh": "新斯科舍"
+    }
+  },
+  {
+    "country_a2": "CA",
+    "region_code": "CA-PE",
+    "region_name": "Canada",
+    "states": [
+      {
+        "state_code": "CA-PE",
+        "state_name": "Prince Edward Island",
+        "i18n": {
+          "ar": "جزيرة الأمير إدوارد",
+          "bn": "প্রিন্স এডওয়ার্ড দ্বীপ",
+          "de": "Prince Edward Island",
+          "el": "Νήσος του Πρίγκηπα Εδουάρδου",
+          "en": "Prince Edward Island",
+          "es": "Isla del Príncipe Eduardo",
+          "fa": "جزیره پرنس ادوارد",
+          "fr": "Île-du-Prince-Édouard",
+          "he": "אי הנסיך אדוארד",
+          "hi": "प्रिंस एडवर्ड द्वीप",
+          "hu": "Prince Edward-sziget",
+          "id": "Pulau Pangeran Edward",
+          "it": "Isola del Principe Edoardo",
+          "ja": "プリンスエドワードアイランド州",
+          "ko": "프린스에드워드아일랜드",
+          "nl": "Prins Edwardeiland",
+          "pl": "Wyspa Księcia Edwarda",
+          "pt": "Ilha do Príncipe Eduardo",
+          "ru": "Остров Принца Эдуарда",
+          "sv": "Prince Edward Island",
+          "tr": "Prens Edward Adası",
+          "uk": "Острів Принца Едварда",
+          "ur": "پرنس ایڈورڈ آئی لینڈ",
+          "vi": "Đảo Hoàng tử Edward",
+          "zh": "爱德华王子岛",
+          "zht": "愛德華王子島省"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Остров Принца Эдуарда",
+      "en": "Prince Edward Island",
+      "ar": "جزيرة الأمير إدوارد",
+      "de": "Prince Edward Island",
+      "es": "Isla del Príncipe Eduardo",
+      "fr": "Île-du-Prince-Édouard",
+      "it": "Isola del Principe Edoardo",
+      "zh": "愛德華王子島"
+    }
+  },
+  {
+    "country_a2": "AU",
+    "region_code": "AU-CSI",
+    "region_name": "Coral Sea Islands",
+    "states": [
+      {
+        "state_code": "-99-X03",
+        "state_name": "Coral Sea Islands",
+        "i18n": {
+          "ar": "جزر بحر كورال",
+          "bn": "কোরাল সী আইল্যান্ড",
+          "de": "Korallenmeerinseln",
+          "el": "Νήσοι της Θάλασσας των Κοραλλιών",
+          "en": "Coral Sea Islands",
+          "es": "Islas del Mar del Coral",
+          "fa": "جزایر کورال سی",
+          "fr": "Coral Sea Islands",
+          "he": "איי ים האלמוגים",
+          "hi": "कोरल सागर द्वीप",
+          "hu": "Korall-tengeri-szigetek",
+          "id": "Kepulauan Laut Karang",
+          "it": "Isole del Mar dei Corall",
+          "ja": "コーラル・シー諸島",
+          "ko": "코랄 씨 아일랜즈",
+          "nl": "Koraalzee-eilanden",
+          "pl": "Wyspy Morza Koralowego",
+          "pt": "Ilhas do Mar de Coral",
+          "ru": "Террито́рия острово́в Кора́ллового мо́ря",
+          "sv": "Korallhavsöarna",
+          "tr": "Mercan Denizi Adaları",
+          "uk": "Острови Коралового моря",
+          "ur": "کورال سمندری جزائر",
+          "vi": "Quần đảo Biển San hô",
+          "zh": "珊瑚海群岛",
+          "zht": "珊瑚海群島"
+        }
+      }
+    ]
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-LA",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-LA",
+        "state_name": "Ladakh",
+        "i18n": {
+          "ar": "لداخ",
+          "bn": "লাদাখ",
+          "de": "Ladakh",
+          "el": "Λαντάχ",
+          "en": "Ladakh",
+          "es": "Ladakh",
+          "fa": "لداخ",
+          "fr": "Ladakh",
+          "he": "לדאק",
+          "hi": "लद्दाख़",
+          "hu": "Ladak",
+          "id": "Ladakh",
+          "it": "Ladakh",
+          "ja": "ラダック",
+          "ko": "라다크",
+          "nl": "Ladakh",
+          "pl": "Ladakh",
+          "pt": "Ladaque",
+          "ru": "Ладакх",
+          "sv": "Ladakh",
+          "tr": "Ladakh",
+          "uk": "Ладакх",
+          "ur": "لداخ",
+          "vi": "Ladakh",
+          "zh": "拉达克",
+          "zht": "拉達克"
+        }
+      }
+    ]
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-AR",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-AR",
+        "state_name": "Arunachal Pradesh",
+        "i18n": {
+          "ar": "أروناجل برديش",
+          "bn": "অরুণাচল প্রদেশ",
+          "de": "Arunachal Pradesh",
+          "el": "Αρουνάτσαλ Πραντές",
+          "en": "Arunachal Pradesh",
+          "es": "Arunachal Pradesh",
+          "fa": "آروناچال پرادش",
+          "fr": "Arunachal Pradesh",
+          "he": "ארונאצ'ל פרדש",
+          "hi": "अरुणाचल प्रदेश",
+          "hu": "Arunácsal Prades",
+          "id": "Arunachal Pradesh",
+          "it": "Arunachal Pradesh",
+          "ja": "アルナーチャル・プラデーシュ州",
+          "ko": "아루나찰프라데시",
+          "nl": "Arunachal Pradesh",
+          "pl": "Arunachal Pradesh",
+          "pt": "Arunachal Pradesh",
+          "ru": "Аруначал-Прадеш",
+          "sv": "Arunachal Pradesh",
+          "tr": "Arunaçhal Pradesh",
+          "uk": "Аруначал-Прадеш",
+          "ur": "اروناچل پردیش",
+          "vi": "Arunachal Pradesh",
+          "zh": "阿鲁纳恰尔邦",
+          "zht": "阿魯納恰爾邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Аруначал-Прадеш",
+      "en": "Arunachal Pradesh",
+      "ar": "أروناجل برديش",
+      "de": "Arunachal Pradesh",
+      "es": "Arunachal Pradesh",
+      "fr": "Arunachal Pradesh",
+      "it": "Arunachal Pradesh",
+      "zh": "阿鲁纳恰尔邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-SK",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-SK",
+        "state_name": "Sikkim",
+        "i18n": {
+          "ar": "سيكيم",
+          "bn": "সিকিম",
+          "de": "Sikkim",
+          "el": "Σίκκιμ",
+          "en": "Sikkim",
+          "es": "Sikkim",
+          "fa": "سیکیم",
+          "fr": "Sikkim",
+          "he": "סיקים",
+          "hi": "सिक्किम",
+          "hu": "Szikkim",
+          "id": "Sikkim",
+          "it": "Sikkim",
+          "ja": "シッキム州",
+          "ko": "시킴",
+          "nl": "Sikkim",
+          "pl": "Sikkim",
+          "pt": "Siquim",
+          "ru": "Сикким",
+          "sv": "Sikkim",
+          "tr": "Sikkim",
+          "uk": "Сіккім",
+          "ur": "سکم",
+          "vi": "Sikkim",
+          "zh": "锡金邦",
+          "zht": "錫金邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Сикким",
+      "en": "Sikkim",
+      "ar": "سيكيم",
+      "de": "Sikkim",
+      "es": "Sikkim",
+      "fr": "Sikkim",
+      "it": "Sikkim",
+      "zh": "锡金"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-WB",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-WB",
+        "state_name": "West Bengal",
+        "i18n": {
+          "ar": "بنغال الغربية",
+          "bn": "পশ্চিমবঙ্গ",
+          "de": "Westbengalen",
+          "el": "Δυτική Βεγγάλη",
+          "en": "West Bengal",
+          "es": "Bengala Occidental",
+          "fa": "بنگال غربی",
+          "fr": "Bengale-Occidental",
+          "he": "מערב בנגל",
+          "hi": "पश्चिम बंगाल",
+          "hu": "Nyugat-Bengál",
+          "id": "Benggala Barat",
+          "it": "Bengala Occidentale",
+          "ja": "西ベンガル州",
+          "ko": "서벵골",
+          "nl": "West-Bengalen",
+          "pl": "Bengal Zachodni",
+          "pt": "Bengala Ocidental",
+          "ru": "Западная Бенгалия",
+          "sv": "Västbengalen",
+          "tr": "Batı Bengal",
+          "uk": "Західний Бенгал",
+          "ur": "مغربی بنگال",
+          "vi": "Tây Bengal",
+          "zh": "西孟加拉邦",
+          "zht": "西孟加拉邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Западная Бенгалия",
+      "en": "West Bengal",
+      "ar": "بنغال الغربية",
+      "de": "Westbengalen",
+      "es": "Bengala Occidental",
+      "fr": "Bengale-Occidental",
+      "it": "Bengala occidentale",
+      "zh": "西孟加拉邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-AS",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-AS",
+        "state_name": "Assam",
+        "i18n": {
+          "ar": "آسام",
+          "bn": "আসাম",
+          "de": "Assam",
+          "el": "Άσαμ",
+          "en": "Assam",
+          "es": "Assam",
+          "fa": "آسام",
+          "fr": "Assam",
+          "he": "אסאם",
+          "hi": "असम",
+          "hu": "Asszám",
+          "id": "Assam",
+          "it": "Assam",
+          "ja": "アッサム州",
+          "ko": "아삼",
+          "nl": "Assam",
+          "pl": "Asam",
+          "pt": "Assam",
+          "ru": "Ассам",
+          "sv": "Assam",
+          "tr": "Assam",
+          "uk": "Ассам",
+          "ur": "آسام",
+          "vi": "Assam",
+          "zh": "阿萨姆邦",
+          "zht": "阿薩姆邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Ассам",
+      "en": "Assam",
+      "ar": "آسام",
+      "de": "Assam",
+      "es": "Assam",
+      "fr": "Assam",
+      "it": "Assam",
+      "zh": "阿萨姆邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-UT",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-UT",
+        "state_name": "Uttarakhand",
+        "i18n": {
+          "ar": "أوتاراخند",
+          "bn": "উত্তরাখণ্ড",
+          "de": "Uttarakhand",
+          "el": "Ουταράχαντ",
+          "en": "Uttarakhand",
+          "es": "Uttarakhand",
+          "fa": "اوتاراکند",
+          "fr": "Uttarakhand",
+          "he": "אוטראקהאנד",
+          "hi": "उत्तराखण्ड",
+          "hu": "Uttarakhand",
+          "id": "Uttarakhand",
+          "it": "Uttarakhand",
+          "ja": "ウッタラーカンド州",
+          "ko": "우타라칸드",
+          "nl": "Uttarakhand",
+          "pl": "Uttarakhand",
+          "pt": "Uttarakhand",
+          "ru": "Уттаракханд",
+          "sv": "Uttarakhand",
+          "tr": "Uttarakhand",
+          "uk": "Уттаракханд",
+          "ur": "اتراکھنڈ",
+          "vi": "Uttarakhand",
+          "zh": "北阿坎德邦",
+          "zht": "北阿坎德邦"
+        }
+      }
+    ],
+    "i18n": {
+      "en": "Uttarakhand"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-NL",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-NL",
+        "state_name": "Nagaland",
+        "i18n": {
+          "ar": "ناجالاند",
+          "bn": "নাগাল্যান্ড",
+          "de": "Nagaland",
+          "el": "Ναγκαλάντ",
+          "en": "Nagaland",
+          "es": "Nagaland",
+          "fa": "ناگالند",
+          "fr": "Nagaland",
+          "he": "נאגאלנד",
+          "hi": "नागालैण्ड",
+          "hu": "Nágaföld",
+          "id": "Nagaland",
+          "it": "Nagaland",
+          "ja": "ナガランド州",
+          "ko": "나갈랜드",
+          "nl": "Nagaland",
+          "pl": "Nagaland",
+          "pt": "Nagaland",
+          "ru": "Нагаленд",
+          "sv": "Nagaland",
+          "tr": "Nagaland",
+          "uk": "Нагаленд",
+          "ur": "ناگالینڈ",
+          "vi": "Nagaland",
+          "zh": "那加兰邦",
+          "zht": "那加蘭邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Нагаленд",
+      "en": "Nagaland",
+      "ar": "ناجالاند",
+      "de": "Nagaland",
+      "es": "Nagaland",
+      "fr": "Nagaland",
+      "it": "Nagaland",
+      "zh": "那加兰邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-MN",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-MN",
+        "state_name": "Manipur",
+        "i18n": {
+          "ar": "مانيبور",
+          "bn": "মণিপুর",
+          "de": "Manipur",
+          "el": "Μανιπούρ",
+          "en": "Manipur",
+          "es": "Manipur",
+          "fa": "مانیپور",
+          "fr": "Manipur",
+          "he": "מניפור",
+          "hi": "मणिपुर",
+          "hu": "Manipur",
+          "id": "Manipur",
+          "it": "Manipur",
+          "ja": "マニプル州",
+          "ko": "마니푸르",
+          "nl": "Manipur",
+          "pl": "Manipur",
+          "pt": "Manipur",
+          "ru": "Манипур",
+          "sv": "Manipur",
+          "tr": "Manipur",
+          "uk": "Маніпур",
+          "ur": "منی پور",
+          "vi": "Manipur",
+          "zh": "曼尼普尔邦",
+          "zht": "曼尼普爾邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Манипур",
+      "en": "Manipur",
+      "ar": "مانيبور",
+      "de": "Manipur",
+      "es": "Manipur",
+      "fr": "Manipur",
+      "it": "Manipur",
+      "zh": "曼尼普尔邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-MZ",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-MZ",
+        "state_name": "Mizoram",
+        "i18n": {
+          "ar": "ميزورام",
+          "bn": "মিজোরাম",
+          "de": "Mizoram",
+          "el": "Μιζόραμ",
+          "en": "Mizoram",
+          "es": "Mizoram",
+          "fa": "میزورام",
+          "fr": "Mizoram",
+          "he": "מיזוראם",
+          "hi": "मिज़ोरम",
+          "hu": "Mizoram",
+          "id": "Mizoram",
+          "it": "Mizoram",
+          "ja": "ミゾラム州",
+          "ko": "미조람",
+          "nl": "Mizoram",
+          "pl": "Mizoram",
+          "pt": "Mizoram",
+          "ru": "Мизорам",
+          "sv": "Mizoram",
+          "tr": "Mizoram",
+          "uk": "Мізорам",
+          "ur": "میزورم",
+          "vi": "Mizoram",
+          "zh": "米佐拉姆邦",
+          "zht": "米佐拉姆邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Мизорам",
+      "en": "Mizoram",
+      "ar": "ميزورام",
+      "de": "Mizoram",
+      "es": "Mizorán",
+      "fr": "Mizoram",
+      "it": "Mizoram",
+      "zh": "米佐拉姆邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-TR",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-TR",
+        "state_name": "Tripura",
+        "i18n": {
+          "ar": "ترايبورا",
+          "bn": "ত্রিপুরা",
+          "de": "Tripura",
+          "el": "Τρίπουρα",
+          "en": "Tripura",
+          "es": "Tripura",
+          "fa": "تریپورا",
+          "fr": "Tripura",
+          "he": "טריפורה",
+          "hi": "त्रिपुरा",
+          "hu": "Tripura",
+          "id": "Tripura",
+          "it": "Tripura",
+          "ja": "トリプラ州",
+          "ko": "트리푸라",
+          "nl": "Tripura",
+          "pl": "Tripura",
+          "pt": "Tripura",
+          "ru": "Трипура",
+          "sv": "Tripura",
+          "tr": "Tripura",
+          "uk": "Тріпура",
+          "ur": "تری پورہ",
+          "vi": "Tripura",
+          "zh": "特里普拉邦",
+          "zht": "特里普拉邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Трипура",
+      "en": "Tripura",
+      "ar": "ترايبورا",
+      "de": "Tripura",
+      "es": "Tripura",
+      "fr": "Tripura",
+      "it": "Tripura",
+      "zh": "特里普拉邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-ML",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-ML",
+        "state_name": "Meghalaya",
+        "i18n": {
+          "ar": "ميغالايا",
+          "bn": "মেঘালয়",
+          "de": "Meghalaya",
+          "el": "Μεγκαλάγια",
+          "en": "Meghalaya",
+          "es": "Megalaya",
+          "fa": "مگالایا",
+          "fr": "Meghalaya",
+          "he": "מגהלאיה",
+          "hi": "मेघालय",
+          "hu": "Meghálaja",
+          "id": "Meghalaya",
+          "it": "Meghalaya",
+          "ja": "メーガーラヤ州",
+          "ko": "메갈라야",
+          "nl": "Meghalaya",
+          "pl": "Meghalaya",
+          "pt": "Meghalaya",
+          "ru": "Мегалая",
+          "sv": "Meghalaya",
+          "tr": "Meghalaya",
+          "uk": "Меґхалая",
+          "ur": "میگھالیہ",
+          "vi": "Meghalaya",
+          "zh": "梅加拉亚邦",
+          "zht": "梅加拉亚邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Мегхалая",
+      "en": "Meghalaya",
+      "ar": "ميغالايا",
+      "de": "Meghalaya",
+      "es": "Megalaya",
+      "fr": "Meghalaya",
+      "it": "Meghalaya",
+      "zh": "梅加拉亚邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-PB",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-PB",
+        "state_name": "Punjab",
+        "i18n": {
+          "ar": "بنجاب",
+          "bn": "পাঞ্জাব",
+          "de": "Punjab",
+          "el": "Παντζάμπ",
+          "en": "Punjab",
+          "es": "Panyab",
+          "fa": "پنجاب",
+          "fr": "Pendjab",
+          "he": "פנג'אב",
+          "hi": "पंजाब",
+          "hu": "Pandzsáb",
+          "id": "Punjab",
+          "it": "Punjab",
+          "ja": "パンジャーブ州",
+          "ko": "펀자브",
+          "nl": "Punjab",
+          "pl": "Pendżab",
+          "pt": "Punjab",
+          "ru": "Пенджаб",
+          "sv": "Punjab",
+          "tr": "Pencap",
+          "uk": "Пенджаб",
+          "ur": "پنجاب، بھارت",
+          "vi": "Punjab",
+          "zh": "旁遮普邦",
+          "zht": "旁遮普邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Пенджаб",
+      "en": "Punjab",
+      "ar": "بنجاب",
+      "de": "Punjab",
+      "es": "Punyab",
+      "fr": "Pendjab",
+      "it": "Punjab",
+      "zh": "旁遮普邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-RJ",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-RJ",
+        "state_name": "Rajasthan",
+        "i18n": {
+          "ar": "راجستان",
+          "bn": "রাজস্থান",
+          "de": "Rajasthan",
+          "el": "Ράτζασταν",
+          "en": "Rajasthan",
+          "es": "Rajastán",
+          "fa": "راجستان",
+          "fr": "Rajasthan",
+          "he": "ראג'סטאן",
+          "hi": "राजस्थान",
+          "hu": "Rádzsasztán",
+          "id": "Rajasthan",
+          "it": "Rajasthan",
+          "ja": "ラージャスターン州",
+          "ko": "라자스탄",
+          "nl": "Rajasthan",
+          "pl": "Radżastan",
+          "pt": "Rajastão",
+          "ru": "Раджастхан",
+          "sv": "Rajasthan",
+          "tr": "Racasthan",
+          "uk": "Раджастхан",
+          "ur": "راجستھان",
+          "vi": "Rajasthan",
+          "zh": "拉贾斯坦邦",
+          "zht": "拉賈斯坦邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Раджастхан",
+      "en": "Rajasthan",
+      "ar": "راجاستان",
+      "de": "Rajasthan",
+      "es": "Rajastán",
+      "fr": "Rajasthan",
+      "it": "Rajasthan",
+      "zh": "拉贾斯坦邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-GJ",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-GJ",
+        "state_name": "Gujarat",
+        "i18n": {
+          "ar": "كجرات",
+          "bn": "গুজরাত",
+          "de": "Gujarat",
+          "el": "Γκουτζαράτ",
+          "en": "Gujarat",
+          "es": "Guyarat",
+          "fa": "گجرات",
+          "fr": "Gujarat",
+          "he": "גוג'ראט",
+          "hi": "गुजरात",
+          "hu": "Gudzsarát",
+          "id": "Gujarat",
+          "it": "Gujarat",
+          "ja": "グジャラート州",
+          "ko": "구자라트",
+          "nl": "Gujarat",
+          "pl": "Gudźarat",
+          "pt": "Gujarate",
+          "ru": "Гуджарат",
+          "sv": "Gujarat",
+          "tr": "Gucerat",
+          "uk": "Гуджарат",
+          "ur": "گجرات",
+          "vi": "Gujarat",
+          "zh": "古吉拉特邦",
+          "zht": "古吉拉特邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Гуджарат",
+      "en": "Gujarat",
+      "ar": "غوجارات",
+      "de": "Gujarat",
+      "es": "Guyarat",
+      "fr": "Gujarat",
+      "it": "Gujarat",
+      "zh": "古吉拉特邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-HP",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-HP",
+        "state_name": "Himachal Pradesh",
+        "i18n": {
+          "ar": "هيماجل برديش",
+          "bn": "হিমাচল প্রদেশ",
+          "de": "Himachal Pradesh",
+          "el": "Χιμάτσαλ Πραντές",
+          "en": "Himachal Pradesh",
+          "es": "Himachal Pradesh",
+          "fa": "هیماچال پرادش",
+          "fr": "Himachal Pradesh",
+          "he": "הימאצ'ל פרדש",
+          "hi": "हिमाचल प्रदेश",
+          "hu": "Himácsal Prades",
+          "id": "Himachal Pradesh",
+          "it": "Himachal Pradesh",
+          "ja": "ヒマーチャル・プラデーシュ州",
+          "ko": "히마찰프라데시",
+          "nl": "Himachal Pradesh",
+          "pl": "Himachal Pradesh",
+          "pt": "Himachal Pradesh",
+          "ru": "Химачал-Прадеш",
+          "sv": "Himachal Pradesh",
+          "tr": "Himaçhal Pradeş",
+          "uk": "Хімачал-Прадеш",
+          "ur": "ہماچل پردیش",
+          "vi": "Himachal Pradesh",
+          "zh": "喜马偕尔邦",
+          "zht": "喜馬偕爾邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Химачал-Прадеш",
+      "en": "Himachal Pradesh",
+      "ar": "هيماجل برديش",
+      "de": "Himachal Pradesh",
+      "es": "Himachal Pradesh",
+      "fr": "Himachal Pradesh",
+      "it": "Himachal Pradesh",
+      "zh": "喜马偕尔邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-JK",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-JK",
+        "state_name": "Jammu and Kashmir",
+        "i18n": {
+          "ar": "جامو وكشمير",
+          "bn": "জম্মু ও কাশ্মীর",
+          "de": "Jammu und Kashmir",
+          "el": "Γιαμού και Κασμίρ",
+          "en": "Jammu and Kashmir",
+          "es": "Jammu y Cachemira",
+          "fa": "جامو و کشمیر",
+          "fr": "Jammu-et-Cachemire",
+          "he": "ג'אמו וקשמיר",
+          "hi": "जम्मू और कश्मीर",
+          "hu": "Dzsammu és Kasmír",
+          "id": "Jammu dan Kashmir",
+          "it": "Jammu e Kashmir",
+          "ja": "ジャンムー・カシミール州",
+          "ko": "잠무 카슈미르",
+          "nl": "Jammu en Kasjmir",
+          "pl": "Dżammu i Kaszmir",
+          "pt": "Jammu e Caxemira",
+          "ru": "Джамму и Кашмир",
+          "sv": "Jammu och Kashmir",
+          "tr": "Cemmu ve Keşmir",
+          "uk": "Джамму й Кашмір",
+          "ur": "جموں و کشمیر",
+          "vi": "Jammu và Kashmir",
+          "zh": "查谟-克什米尔邦",
+          "zht": "查謨-克什米爾邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Джамму и Кашмир",
+      "en": "Jammu and Kashmir",
+      "ar": "جامو وكشمير",
+      "de": "Jammu und Kashmir",
+      "es": "Jammu y Cachemira",
+      "fr": "Jammu-et-Cachemire",
+      "it": "Jammu e Kashmir",
+      "zh": "查谟-克什米尔邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-BR",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-BR",
+        "state_name": "Bihar",
+        "i18n": {
+          "ar": "بهار",
+          "bn": "বিহার",
+          "de": "Bihar",
+          "el": "Μπιχάρ",
+          "en": "Bihar",
+          "es": "Bihar",
+          "fa": "بیهار",
+          "fr": "Bihar",
+          "he": "ביהר",
+          "hi": "बिहार",
+          "hu": "Bihár",
+          "id": "Bihar",
+          "it": "Bihar",
+          "ja": "ビハール州",
+          "ko": "비하르",
+          "nl": "Bihar",
+          "pl": "Bihar",
+          "pt": "Bihar",
+          "ru": "Бихар",
+          "sv": "Bihar",
+          "tr": "Bihar",
+          "uk": "Біхар",
+          "ur": "بہار",
+          "vi": "Bihar",
+          "zh": "比哈尔邦",
+          "zht": "比哈爾邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Бихар",
+      "en": "Bihar",
+      "ar": "بيهار",
+      "de": "Bihar",
+      "es": "Bihar",
+      "fr": "Bihar",
+      "it": "Bihar",
+      "zh": "比哈尔邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-UP",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-UP",
+        "state_name": "Uttar Pradesh",
+        "i18n": {
+          "ar": "أتر برديش",
+          "bn": "উত্তরপ্রদেশ",
+          "de": "Uttar Pradesh",
+          "el": "Ούταρ Πραντές",
+          "en": "Uttar Pradesh",
+          "es": "Uttar Pradesh",
+          "fa": "اوتار پرادش",
+          "fr": "Uttar Pradesh",
+          "he": "אוטר פרדש",
+          "hi": "उत्तर प्रदेश",
+          "hu": "Uttar Prades",
+          "id": "Uttar Pradesh",
+          "it": "Uttar Pradesh",
+          "ja": "ウッタル・プラデーシュ州",
+          "ko": "우타르프라데시",
+          "nl": "Uttar Pradesh",
+          "pl": "Uttar Pradesh",
+          "pt": "Uttar Pradesh",
+          "ru": "Уттар-Прадеш",
+          "sv": "Uttar Pradesh",
+          "tr": "Uttar Pradeş",
+          "uk": "Уттар-Прадеш",
+          "ur": "اتر پردیش",
+          "vi": "Uttar Pradesh",
+          "zh": "北方邦",
+          "zht": "北方邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Уттар-Прадеш",
+      "en": "Uttar Pradesh",
+      "ar": "أتر برديش",
+      "de": "Uttar Pradesh",
+      "es": "Uttar Pradesh",
+      "fr": "Uttar Pradesh",
+      "it": "Uttar Pradesh",
+      "zh": "北方邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-AD",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-AP",
+        "state_name": "Andhra Pradesh",
+        "i18n": {
+          "ar": "أندرا برديش",
+          "bn": "অন্ধ্রপ্রদেশ",
+          "de": "Andhra Pradesh",
+          "el": "Άντρα Πραντές",
+          "en": "Andhra Pradesh",
+          "es": "Andhra Pradesh",
+          "fa": "آندرا پرادش",
+          "fr": "Andhra Pradesh",
+          "he": "אנדרה פרדש",
+          "hi": "आन्ध्र प्रदेश",
+          "hu": "Ándhra Prades",
+          "id": "Andhra Pradesh",
+          "it": "Andhra Pradesh",
+          "ja": "アーンドラ・プラデーシュ州",
+          "ko": "안드라프라데시",
+          "nl": "Andhra Pradesh",
+          "pl": "Andhra Pradesh",
+          "pt": "Andra Pradexe",
+          "ru": "Андхра-Прадеш",
+          "sv": "Andhra Pradesh",
+          "tr": "Andhra Pradeş",
+          "uk": "Андхра-Прадеш",
+          "ur": "آندھرا پردیش",
+          "vi": "Andhra Pradesh",
+          "zh": "安得拉邦",
+          "zht": "安得拉邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Андхра-Прадеш",
+      "en": "Andhra Pradesh",
+      "ar": "أندرا برديش",
+      "de": "Andhra Pradesh",
+      "es": "Andhra Pradesh",
+      "fr": "Andhra Pradesh",
+      "it": "Andhra Pradesh",
+      "zh": "安得拉邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-OR",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-OR",
+        "state_name": "Odisha",
+        "i18n": {
+          "ar": "أوديشا",
+          "bn": "ওড়িশা",
+          "de": "Odisha",
+          "el": "Ορίσα",
+          "en": "Odisha",
+          "es": "Orissa",
+          "fa": "اوریسا",
+          "fr": "Odisha",
+          "he": "אודישה",
+          "hi": "ओडिशा",
+          "hu": "Orisza",
+          "id": "Orissa",
+          "it": "Orissa",
+          "ja": "オリッサ州",
+          "ko": "오디샤",
+          "nl": "Odisha",
+          "pl": "Orisa",
+          "pt": "Orissa",
+          "ru": "Одиша",
+          "sv": "Orissa",
+          "tr": "Orissa",
+          "uk": "Орісса",
+          "ur": "اڑیسہ",
+          "vi": "Orissa",
+          "zh": "奥里萨邦",
+          "zht": "奧里薩邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Орисса",
+      "en": "Odisha",
+      "ar": "أوديشا",
+      "de": "Odisha",
+      "es": "Orissa",
+      "fr": "Odisha",
+      "it": "Orissa",
+      "zh": "奥里萨邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-DH",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-DH",
+        "state_name": "Dadra and Nagar Haveli and Daman and Diu",
+        "i18n": {
+          "ar": "دادرا وناجار هافيلي ودَمـَن وديو",
+          "bn": "দাদরা ও নগর হাভেলি এবং দমন ও দিউ",
+          "de": "Dadra und Nagar Haveli und Daman und Diu",
+          "el": "Ντάντρα και Ναγκάρ Χαβέλι και Ντάμαν και Ντιου",
+          "en": "Dadra and Nagar Haveli and Daman and Diu",
+          "es": "Dadra y Nagar Haveli y Damán y Diu",
+          "fa": "دادرا و نگر حویلی و دامان و دیو",
+          "fr": "Dadra et Nagar Haveli et Daman et Diu",
+          "he": "דדרה ונגר האבלי ודמן ודיו",
+          "hi": "दादरा और नगर हवेली और दमन और दीव",
+          "hu": "Dadra és Nagar Haveli és Daman és Diu",
+          "id": "Dadra & Nagar Haveli dan Daman & Diu",
+          "it": "Dadra e Nagar Haveli e Daman e Diu",
+          "ja": "ダードラー・ナガル・ハヴェーリーおよびダマン・ディーウ連邦直轄領",
+          "ko": "다드라 나가르하벨리 다만 디우",
+          "nl": "Dadra en Nagar Haveli en Daman en Diu",
+          "pl": "Dadra i Nagar Haveli oraz Daman i Diu",
+          "pt": "Dadrá e Nagar Aveli e Damão e Diu",
+          "ru": "Дадра и Нагар-Хавели и Даман и Диу",
+          "sv": "Dadra och Nagar Haveli och Daman och Diu",
+          "tr": "Dadra ve Nagar Haveli ve Daman ve Diu",
+          "uk": "Дадра і Нагар Хавелі та Даман і Діу",
+          "ur": "دادرا و نگر حویلی و دمن و دیو",
+          "vi": "Dadra và Nagar Haveli và Daman và Diu",
+          "zh": "達德拉-納加爾哈維利和達曼-第烏",
+          "zht": "達德拉-納加爾哈維利和達曼-第烏"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Дадра и Нагар-Хавели",
+      "en": "Dadra and Nagar Haveli",
+      "de": "Dadra und Nagar Haveli",
+      "es": "Dadra y Nagar Haveli",
+      "fr": "Dadra et Nagar Haveli",
+      "it": "Dadra e Nagar Haveli",
+      "zh": "达德拉-纳加尔哈维利"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-MH",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-MH",
+        "state_name": "Maharashtra",
+        "i18n": {
+          "ar": "ماهاراشترا",
+          "bn": "মহারাষ্ট্র",
+          "de": "Maharashtra",
+          "el": "Μαχαράστρα",
+          "en": "Maharashtra",
+          "es": "Maharashtra",
+          "fa": "مهاراشترا",
+          "fr": "Maharashtra",
+          "he": "מהאראשטרה",
+          "hi": "महाराष्ट्र",
+          "hu": "Mahárástra",
+          "id": "Maharashtra",
+          "it": "Maharashtra",
+          "ja": "マハーラーシュトラ州",
+          "ko": "마하라슈트라",
+          "nl": "Maharashtra",
+          "pl": "Maharasztra",
+          "pt": "Maharashtra",
+          "ru": "Махараштра",
+          "sv": "Maharashtra",
+          "tr": "Maharaştra",
+          "uk": "Махараштра",
+          "ur": "مہاراشٹر",
+          "vi": "Maharashtra",
+          "zh": "马哈拉施特拉邦",
+          "zht": "馬哈拉什特拉邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Махараштра",
+      "en": "Maharashtra",
+      "ar": "ماهاراشترا",
+      "de": "Maharashtra",
+      "es": "Maharastra",
+      "fr": "Maharashtra",
+      "it": "Maharashtra",
+      "zh": "马哈拉施特拉邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-GA",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-GA",
+        "state_name": "Goa",
+        "i18n": {
+          "ar": "غوا",
+          "bn": "গোয়া",
+          "de": "Goa",
+          "el": "Γκόα",
+          "en": "Goa",
+          "es": "Goa",
+          "fa": "گوا",
+          "fr": "Goa",
+          "he": "גואה",
+          "hi": "गोआ",
+          "hu": "Goa",
+          "id": "Goa",
+          "it": "Goa",
+          "ja": "ゴア州",
+          "ko": "고아",
+          "nl": "Goa",
+          "pl": "Goa",
+          "pt": "Goa",
+          "ru": "Гоа",
+          "sv": "Goa",
+          "tr": "Goa",
+          "uk": "Гоа",
+          "ur": "گوا",
+          "vi": "Goa",
+          "zh": "果阿邦",
+          "zht": "果阿邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Гоа",
+      "en": "Goa",
+      "ar": "غوا",
+      "de": "Goa",
+      "es": "Goa",
+      "fr": "Goa",
+      "it": "Goa",
+      "zh": "果阿邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-KA",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-KA",
+        "state_name": "Karnataka",
+        "i18n": {
+          "ar": "كارناتاكا",
+          "bn": "কর্ণাটক",
+          "de": "Karnataka",
+          "el": "Καρνάτακα",
+          "en": "Karnataka",
+          "es": "Karnataka",
+          "fa": "کارناتاکا",
+          "fr": "Karnataka",
+          "he": "קרנאטקה",
+          "hi": "कर्नाटक",
+          "hu": "Karnátaka",
+          "id": "Karnataka",
+          "it": "Karnataka",
+          "ja": "カルナータカ州",
+          "ko": "카르나타카",
+          "nl": "Karnataka",
+          "pl": "Karnataka",
+          "pt": "Carnataca",
+          "ru": "Карнатака",
+          "sv": "Karnataka",
+          "tr": "Karnataka",
+          "uk": "Карнатака",
+          "ur": "کرناٹک",
+          "vi": "Karnataka",
+          "zh": "卡纳塔克邦",
+          "zht": "卡納塔克邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Карнатака",
+      "en": "Karnataka",
+      "ar": "كارناتاكا",
+      "de": "Karnataka",
+      "es": "Karnataka",
+      "fr": "Karnataka",
+      "it": "Karnataka",
+      "zh": "卡纳塔克邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-KL",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-KL",
+        "state_name": "Kerala",
+        "i18n": {
+          "ar": "كيرلا",
+          "bn": "কেরল",
+          "de": "Kerala",
+          "el": "Κεράλα",
+          "en": "Kerala",
+          "es": "Kerala",
+          "fa": "کرالا",
+          "fr": "Kerala",
+          "he": "קרלה",
+          "hi": "केरल",
+          "hu": "Kerala",
+          "id": "Kerala",
+          "it": "Kerala",
+          "ja": "ケーララ州",
+          "ko": "케랄라",
+          "nl": "Kerala",
+          "pl": "Kerala",
+          "pt": "Kerala",
+          "ru": "Керала",
+          "sv": "Kerala",
+          "tr": "Kerala",
+          "uk": "Керала",
+          "ur": "کیرلا",
+          "vi": "Kerala",
+          "zh": "喀拉拉邦",
+          "zht": "喀拉拉邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Керала",
+      "en": "Kerala",
+      "ar": "كيرلا",
+      "de": "Kerala",
+      "es": "Kerala",
+      "fr": "Kerala",
+      "it": "Kerala",
+      "zh": "喀拉拉邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-PY",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-PY",
+        "state_name": "Puducherry",
+        "i18n": {
+          "ar": "بودوتشيري",
+          "bn": "পুদুচেরি",
+          "de": "Puducherry",
+          "el": "Ποντιτσερί",
+          "en": "Puducherry",
+          "es": "Puducherry",
+          "fa": "پودوچری",
+          "fr": "Territoire de Pondichéry",
+          "he": "פודוצ'רי",
+          "hi": "पुदुच्चेरी",
+          "hu": "Puduccseri",
+          "id": "Puducherry",
+          "it": "Pondicherry",
+          "ja": "ポンディシェリ連邦直轄領",
+          "ko": "푸두체리",
+          "nl": "Puducherry",
+          "pl": "Puducherry",
+          "pt": "Puducherry",
+          "ru": "Пондичерри",
+          "sv": "Pondicherry",
+          "tr": "Puduçeri",
+          "uk": "Пудучеррі",
+          "ur": "پونڈیچری",
+          "vi": "Puducherry",
+          "zh": "本地治里",
+          "zht": "本地治里"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Пудучерри",
+      "en": "Puducherry",
+      "ar": "بونديتشيري",
+      "de": "Puducherry",
+      "es": "Puducherry",
+      "fr": "Territoire de Pondichéry",
+      "it": "Pondicherry",
+      "zh": "本地治里"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-TN",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-TN",
+        "state_name": "Tamil Nadu",
+        "i18n": {
+          "ar": "تاميل نادو",
+          "bn": "তামিলনাড়ু",
+          "de": "Tamil Nadu",
+          "el": "Ταμίλ Ναντού",
+          "en": "Tamil Nadu",
+          "es": "Tamil Nadu",
+          "fa": "تامیل نادو",
+          "fr": "Tamil Nadu",
+          "he": "טאמיל נאדו",
+          "hi": "तमिल नाडु",
+          "hu": "Tamilnádu",
+          "id": "Tamil Nadu",
+          "it": "Tamil Nadu",
+          "ja": "タミル・ナードゥ州",
+          "ko": "타밀나두",
+          "nl": "Tamil Nadu",
+          "pl": "Tamilnadu",
+          "pt": "Tamil Nadu",
+          "ru": "Тамилнад",
+          "sv": "Tamil Nadu",
+          "tr": "Tamil Nadu",
+          "uk": "Тамілнаду",
+          "ur": "تامل ناڈو",
+          "vi": "Tamil Nadu",
+          "zh": "泰米尔纳德邦",
+          "zht": "坦米爾納杜邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Тамилнад",
+      "en": "Tamil Nadu",
+      "ar": "تامل نادو",
+      "de": "Tamil Nadu",
+      "es": "Tamil Nadu",
+      "fr": "Tamil Nadu",
+      "it": "Tamil Nadu",
+      "zh": "泰米尔纳德邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-LD",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-LD",
+        "state_name": "Lakshadweep",
+        "i18n": {
+          "ar": "لكشديب",
+          "bn": "লক্ষদ্বীপ",
+          "de": "Lakshadweep",
+          "el": "Λακσαντγουίπ",
+          "en": "Lakshadweep",
+          "es": "Laquedivas",
+          "fa": "لاکشادویپ",
+          "fr": "Lakshadweep",
+          "he": "לקשאדוויפ",
+          "hi": "लक्षद्वीप",
+          "hu": "Laksadíva",
+          "id": "Lakshadweep",
+          "it": "Laccadive",
+          "ja": "ラクシャディープ諸島",
+          "ko": "락샤드위프 제도",
+          "nl": "Laccadiven",
+          "pl": "Lakszadiwy",
+          "pt": "Laquedivas",
+          "ru": "Лакшадвип",
+          "sv": "Lakshadweep",
+          "tr": "Lakşadvip Adaları",
+          "uk": "Лакшадвіп",
+          "ur": "لکشادیپ",
+          "vi": "Lakshadweep",
+          "zh": "拉克沙群岛",
+          "zht": "拉克沙群島"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Лакшадвип",
+      "en": "Lakshadweep",
+      "ar": "لكشديب",
+      "de": "Lakshadweep",
+      "es": "Laquedivas",
+      "fr": "Lakshadweep",
+      "it": "Laccadive",
+      "zh": "拉克沙群島"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-AN",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-AN",
+        "state_name": "Andaman and Nicobar",
+        "i18n": {
+          "ar": "جزر أندمان ونيكوبار",
+          "bn": "আন্দামান ও নিকোবর দ্বীপপুঞ্জ",
+          "de": "Andamanen und Nikobaren",
+          "el": "Νησιά Άνταμαν και Νίκομπαρ",
+          "en": "Andaman and Nicobar Islands",
+          "es": "Islas Andamán y Nicobar",
+          "fa": "جزایر آندامان و نیکوبار",
+          "fr": "Îles Andaman-et-Nicobar",
+          "he": "איי אנדמן וניקובר",
+          "hi": "अण्डमान और निकोबार द्वीपसमूह",
+          "hu": "Andamán- és Nikobár-szigetek",
+          "id": "Kepulauan Andaman dan Nikobar",
+          "it": "Andamane e Nicobare",
+          "ja": "アンダマン・ニコバル諸島",
+          "ko": "안다만 니코바르 제도",
+          "nl": "Andamanen en Nicobaren",
+          "pl": "Andamany i Nikobary",
+          "pt": "Andamão e Nicobar",
+          "ru": "Андаманские и Никобарские острова",
+          "sv": "Andamanerna och Nikobarerna",
+          "tr": "Andaman ve Nikobar adaları",
+          "uk": "Андаманські і Нікобарські острови",
+          "ur": "جزائر انڈمان و نکوبار",
+          "vi": "Quần đảo Andaman và Nicobar",
+          "zh": "安达曼-尼科巴群岛",
+          "zht": "安達曼-尼科巴群島"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Андаманские и Никобарские острова",
+      "en": "Andaman and Nicobar Islands",
+      "ar": "جزر أندمان ونيكوبار",
+      "de": "Andamanen und Nikobaren",
+      "es": "Islas Andamán y Nicobar",
+      "fr": "Îles Andaman-et-Nicobar",
+      "it": "Andamane e Nicobare",
+      "zh": "安达曼-尼科巴群岛"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-JH",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-JH",
+        "state_name": "Jharkhand",
+        "i18n": {
+          "ar": "جهارخاند",
+          "bn": "ঝাড়খণ্ড",
+          "de": "Jharkhand",
+          "el": "Τζαρχάντ",
+          "en": "Jharkhand",
+          "es": "Jharkhand",
+          "fa": "جارکند",
+          "fr": "Jharkhand",
+          "he": "ג'הרקאנד",
+          "hi": "झारखण्ड",
+          "hu": "Dzshárkhand",
+          "id": "Jharkhand",
+          "it": "Jharkhand",
+          "ja": "ジャールカンド州",
+          "ko": "자르칸드",
+          "nl": "Jharkhand",
+          "pl": "Jharkhand",
+          "pt": "Jharkhand",
+          "ru": "Джаркханд",
+          "sv": "Jharkhand",
+          "tr": "Jharkhand",
+          "uk": "Джхаркханд",
+          "ur": "جھاڑکھنڈ",
+          "vi": "Jharkhand",
+          "zh": "贾坎德邦",
+          "zht": "賈坎德邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Джаркханд",
+      "en": "Jharkhand",
+      "ar": "جهارخاند",
+      "de": "Jharkhand",
+      "es": "Jharkhand",
+      "fr": "Jharkhand",
+      "it": "Jharkhand",
+      "zh": "贾坎德邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-DL",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-DL",
+        "state_name": "Delhi",
+        "i18n": {
+          "ar": "دلهي",
+          "bn": "দিল্লি",
+          "de": "Delhi",
+          "el": "Δελχί",
+          "en": "Delhi",
+          "es": "Delhi",
+          "fa": "دهلی",
+          "fr": "Delhi",
+          "he": "דלהי",
+          "hi": "दिल्ली",
+          "hu": "Delhi",
+          "id": "Delhi",
+          "it": "Delhi",
+          "ja": "デリー",
+          "ko": "델리",
+          "nl": "Delhi",
+          "pl": "Delhi",
+          "pt": "Deli",
+          "ru": "Дели",
+          "sv": "Delhi",
+          "tr": "Delhi",
+          "uk": "Делі",
+          "ur": "دہلی",
+          "vi": "Delhi",
+          "zh": "德里",
+          "zht": "德里"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Дели",
+      "en": "Delhi",
+      "ar": "دلهي",
+      "de": "Delhi",
+      "es": "Delhi",
+      "fr": "Delhi",
+      "it": "Delhi",
+      "zh": "德里"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-CH",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-CH",
+        "state_name": "Chandigarh",
+        "i18n": {
+          "ar": "شانديغار",
+          "bn": "চণ্ডীগড়",
+          "de": "Chandigarh",
+          "el": "Τσαντιγκάρ",
+          "en": "Chandigarh",
+          "es": "Chandigarh",
+          "fa": "چندیگر",
+          "fr": "Chandigarh",
+          "he": "צ'אנדיגאר",
+          "hi": "चण्डीगढ़",
+          "hu": "Csandígarh",
+          "id": "Chandigarh",
+          "it": "Chandigarh",
+          "ja": "チャンディーガル",
+          "ko": "찬디가르",
+          "nl": "Chandigarh",
+          "pl": "Czandigarh",
+          "pt": "Chandigarh",
+          "ru": "Чандигарх",
+          "sv": "Chandigarh",
+          "tr": "Çhandigarh",
+          "uk": "Чандігарх",
+          "ur": "چندی گڑھ",
+          "vi": "Chandigarh",
+          "zh": "昌迪加尔",
+          "zht": "昌迪加爾"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Чандигарх",
+      "en": "Chandigarh",
+      "ar": "شانديغار",
+      "de": "Chandigarh",
+      "es": "Chandigarh",
+      "fr": "Chandigarh",
+      "it": "Chandigarh",
+      "zh": "昌迪加尔"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-MP",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-MP",
+        "state_name": "Madhya Pradesh",
+        "i18n": {
+          "ar": "ماديا براديش",
+          "bn": "মধ্যপ্রদেশ",
+          "de": "Madhya Pradesh",
+          "el": "Μαντία Πραντές",
+          "en": "Madhya Pradesh",
+          "es": "Madhya Pradesh",
+          "fa": "مادایا پرادش",
+          "fr": "Madhya Pradesh",
+          "he": "מאדהיה פרדש",
+          "hi": "मध्य प्रदेश",
+          "hu": "Madhja Prades",
+          "id": "Madhya Pradesh",
+          "it": "Madhya Pradesh",
+          "ja": "マディヤ・プラデーシュ州",
+          "ko": "마디아프라데시",
+          "nl": "Madhya Pradesh",
+          "pl": "Madhya Pradesh",
+          "pt": "Madhya Pradesh",
+          "ru": "Мадхья-Прадеш",
+          "sv": "Madhya Pradesh",
+          "tr": "Madhya Pradeş",
+          "uk": "Мадх'я-Прадеш",
+          "ur": "مدھیہ پردیش",
+          "vi": "Madhya Pradesh",
+          "zh": "中央邦",
+          "zht": "中央邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Мадхья-Прадеш",
+      "en": "Madhya Pradesh",
+      "ar": "ماديا براديش",
+      "de": "Madhya Pradesh",
+      "es": "Madhya Pradesh",
+      "fr": "Madhya Pradesh",
+      "it": "Madhya Pradesh",
+      "zh": "中央邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-CT",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-CT",
+        "state_name": "Chhattisgarh",
+        "i18n": {
+          "ar": "تشاتيسغار",
+          "bn": "ছত্তিশগড়",
+          "de": "Chhattisgarh",
+          "el": "Τσατίσγκαρ",
+          "en": "Chhattisgarh",
+          "es": "Chhattisgarh",
+          "fa": "چتیسگر",
+          "fr": "Chhattisgarh",
+          "he": "צ'האטיסגאר",
+          "hi": "छत्तीसगढ़",
+          "hu": "Cshattíszgarh",
+          "id": "Chhattisgarh",
+          "it": "Chhattisgarh",
+          "ja": "チャッティースガル州",
+          "ko": "차티스가르",
+          "nl": "Chhattisgarh",
+          "pl": "Chhattisgarh",
+          "pt": "Chhattisgarh",
+          "ru": "Чхаттисгарх",
+          "sv": "Chhattisgarh",
+          "tr": "Chhattisgarh",
+          "uk": "Чхаттісґарх",
+          "ur": "چھتیس گڑھ",
+          "vi": "Chhattisgarh",
+          "zh": "恰蒂斯加尔邦",
+          "zht": "恰蒂斯加爾邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Чхаттисгарх",
+      "en": "Chhattisgarh",
+      "ar": "تشاتيسغار",
+      "de": "Chhattisgarh",
+      "es": "Chhattisgarh",
+      "fr": "Chhattisgarh",
+      "it": "Chhattisgarh",
+      "zh": "恰蒂斯加尔邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-HR",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-HR",
+        "state_name": "Haryana",
+        "i18n": {
+          "ar": "هاريانا",
+          "bn": "হরিয়ানা",
+          "de": "Haryana",
+          "el": "Χαρυάνα",
+          "en": "Haryana",
+          "es": "Haryana",
+          "fa": "هاریانا",
+          "fr": "Haryana",
+          "he": "הריאנה",
+          "hi": "हरियाणा",
+          "hu": "Harijána",
+          "id": "Haryana",
+          "it": "Haryana",
+          "ja": "ハリヤーナー州",
+          "ko": "하리아나",
+          "nl": "Haryana",
+          "pl": "Hariana",
+          "pt": "Haryana",
+          "ru": "Харьяна",
+          "sv": "Haryana",
+          "tr": "Haryana",
+          "uk": "Хар'яна",
+          "ur": "ہریانہ",
+          "vi": "Haryana",
+          "zh": "哈里亚纳邦",
+          "zht": "哈里亞納邦"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Харьяна",
+      "en": "Haryana",
+      "ar": "هاريانا",
+      "de": "Haryana",
+      "es": "Haryana",
+      "fr": "Haryana",
+      "it": "Haryana",
+      "zh": "哈里亚纳邦"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-TG",
+    "region_name": "India",
+    "states": [
+      {
+        "state_code": "IN-TG",
+        "state_name": "Telangana",
+        "i18n": {
+          "ar": "تيلانغانا",
+          "bn": "তেলেঙ্গানা",
+          "de": "Telangana",
+          "el": "Τελανγκάνα",
+          "en": "Telangana",
+          "es": "Telangana",
+          "fa": "تلنگانا",
+          "fr": "Telangana",
+          "he": "טלנגאנה",
+          "hi": "तेलंगाना",
+          "hu": "Telangána",
+          "id": "Telangana",
+          "it": "Telangana",
+          "ja": "テランガナ",
+          "ko": "텔랑가나",
+          "nl": "Telangana",
+          "pl": "Telangana",
+          "pt": "Telangana",
+          "ru": "Телангана",
+          "sv": "Telangana",
+          "tr": "Telangana",
+          "uk": "Телангана",
+          "ur": "تیلنگانا",
+          "vi": "Telangana",
+          "zh": "特伦甘纳邦",
+          "zht": "泰倫加納邦"
+        }
+      }
+    ],
+    "i18n": {
+      "en": "Telangana"
+    }
+  },
+  {
+    "country_a2": "AU",
+    "region_code": "AU-CCK",
+    "region_name": "Indian Ocean Territories",
+    "states": [
+      {
+        "state_code": "-99-X15",
+        "state_name": "Cocos (Keeling) Islands",
+        "i18n": {
+          "ar": "جزر كوكوس",
+          "bn": "কোকোস",
+          "de": "Kokosinseln",
+          "el": "Νησιά Κόκος",
+          "en": "Cocos",
+          "es": "Islas Cocos",
+          "fa": "جزایر کوکوس",
+          "fr": "Îles Cocos",
+          "he": "איי קוקוס",
+          "hi": "कोकोस",
+          "hu": "Kókusz",
+          "id": "Kepulauan Cocos",
+          "it": "Isole Cocos",
+          "ja": "ココス諸島",
+          "ko": "코코스 제도",
+          "nl": "Cocoseilanden",
+          "pl": "Wyspy Kokosowe",
+          "pt": "Ilhas Cocos",
+          "ru": "Кокосовые острова",
+          "sv": "Kokosöarna",
+          "tr": "Cocos Adaları",
+          "uk": "Кокосові острови",
+          "ur": "جزائر کوکوس",
+          "vi": "Quần đảo Cocos",
+          "zh": "科科斯（基林）群岛",
+          "zht": "科科斯（基林）群島"
+        }
+      }
+    ]
+  },
+  {
+    "country_a2": "AU",
+    "region_code": "AU-CXR",
+    "region_name": "Indian Ocean Territories",
+    "states": [
+      {
+        "state_code": "-99-X14",
+        "state_name": "Christmas Island",
+        "i18n": {
+          "ar": "جزيرة عيد الميلاد",
+          "bn": "ক্রিসমাস দ্বীপমালা",
+          "de": "Weihnachtsinsel",
+          "el": "Νήσος των Χριστουγέννων",
+          "en": "Christmas Island",
+          "es": "Isla de Navidad",
+          "fa": "جزیره کریسمس",
+          "fr": "Île Christmas",
+          "he": "חג המולד",
+          "hi": "क्रिसमस द्वीप",
+          "hu": "Karácsony-sziget",
+          "id": "Pulau Natal",
+          "it": "Isola di Natale",
+          "ja": "クリスマス島",
+          "ko": "크리스마스섬",
+          "nl": "Christmaseiland",
+          "pl": "Wyspa Bożego Narodzenia",
+          "pt": "Ilha Christmas",
+          "ru": "Остров Рождества",
+          "sv": "Julön",
+          "tr": "Christmas Adası",
+          "uk": "Острів Різдва",
+          "ur": "جزیرہ کرسمس",
+          "vi": "Đảo Christmas",
+          "zh": "聖誕島",
+          "zht": "聖誕島"
+        }
+      }
+    ]
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-SO",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-SON",
+        "state_name": "Sonora",
+        "i18n": {
+          "ar": "ولاية سونورا",
+          "bn": "সোনোরা",
+          "de": "Sonora",
+          "el": "Σονόρα",
+          "en": "Sonora",
+          "es": "Sonora",
+          "fa": "ایالت سونورا",
+          "fr": "Sonora",
+          "he": "סונורה",
+          "hi": "सोनोरा",
+          "hu": "Sonora",
+          "id": "Sonora",
+          "it": "Sonora",
+          "ja": "ソノラ州",
+          "ko": "소노라",
+          "nl": "Sonora",
+          "pl": "Sonora",
+          "pt": "Sonora",
+          "ru": "Сонора",
+          "sv": "Sonora",
+          "tr": "Sonora",
+          "uk": "Сонора",
+          "ur": "سونورا",
+          "vi": "Sonora",
+          "zh": "索诺拉州",
+          "zht": "索諾拉"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Сонора",
+      "en": "Sonora",
+      "ar": "ولاية سونورا",
+      "de": "Sonora",
+      "es": "Sonora",
+      "fr": "Sonora",
+      "it": "Sonora",
+      "zh": "索諾拉州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-BN",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-BCN",
+        "state_name": "Baja California",
+        "i18n": {
+          "ar": "ولاية باها كاليفورنيا",
+          "bn": "বাহা কালিফোর্নিয়া",
+          "de": "Baja California",
+          "el": "Μπάχα Καλιφόρνια",
+          "en": "Baja California",
+          "es": "Baja California",
+          "fa": "باخا کالیفرنیا",
+          "fr": "Basse-Californie",
+          "he": "באחה קליפורניה",
+          "hi": "बाखा कैलिफ़ोर्निया",
+          "hu": "Alsó-Kalifornia",
+          "id": "Baja California",
+          "it": "Bassa California",
+          "ja": "バハ・カリフォルニア州",
+          "ko": "바하칼리포르니아",
+          "nl": "Baja California",
+          "pl": "Kalifornia Dolna",
+          "pt": "Baja California",
+          "ru": "Нижняя Калифорния",
+          "sv": "Baja California",
+          "tr": "Aşağı Kaliforniya",
+          "uk": "Баха-Каліфорнія",
+          "ur": "باجا کیلیفورنیا",
+          "vi": "Baja California",
+          "zh": "下加利福尼亚州",
+          "zht": "下加利福尼亞"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Нижняя Калифорния",
+      "en": "Baja California",
+      "ar": "ولاية باها كاليفورنيا",
+      "de": "Baja California",
+      "es": "Baja California",
+      "fr": "Basse-Californie",
+      "it": "Bassa California",
+      "zh": "下加利福尼亞州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-CH",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-CHH",
+        "state_name": "Chihuahua",
+        "i18n": {
+          "ar": "ولاية شيواوا",
+          "bn": "চিউয়াউয়া",
+          "de": "Chihuahua",
+          "el": "Τσιουάουα",
+          "en": "Chihuahua",
+          "es": "Chihuahua",
+          "fa": "ایالت چیواوا",
+          "fr": "Chihuahua",
+          "he": "צ'יוואווה",
+          "hi": "चिहुआहुआ",
+          "hu": "Chihuahua",
+          "id": "Chihuahua",
+          "it": "Chihuahua",
+          "ja": "チワワ州",
+          "ko": "치와와",
+          "nl": "Chihuahua",
+          "pl": "Chihuahua",
+          "pt": "Chihuahua",
+          "ru": "Чиуауа",
+          "sv": "Chihuahua",
+          "tr": "Chihuahua",
+          "uk": "Чіуауа",
+          "ur": "چہواہوا",
+          "vi": "Chihuahua",
+          "zh": "奇瓦瓦州",
+          "zht": "契瓦瓦市"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Чиуауа",
+      "en": "Chihuahua",
+      "ar": "ولاية شيواوا",
+      "de": "Chihuahua",
+      "es": "Chihuahua",
+      "fr": "État de Chihuahua",
+      "it": "Chihuahua",
+      "zh": "奇瓦瓦州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-CA",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-COA",
+        "state_name": "Coahuila",
+        "i18n": {
+          "ar": "كواويلا",
+          "bn": "কোয়াউইলা",
+          "de": "Coahuila",
+          "el": "Κοαουίλα",
+          "en": "Coahuila",
+          "es": "Coahuila de Zaragoza",
+          "fa": "کواویلا",
+          "fr": "Coahuila",
+          "he": "קואווילה",
+          "hi": "कोहुइला",
+          "hu": "Coahuila",
+          "id": "Coahuila",
+          "it": "Coahuila",
+          "ja": "コアウイラ州",
+          "ko": "코아우일라",
+          "nl": "Coahuila de Zaragoza",
+          "pl": "Coahuila",
+          "pt": "Coahuila de Zaragoza",
+          "ru": "Коауила",
+          "sv": "Coahuila",
+          "tr": "Coahuila",
+          "uk": "Коауїла",
+          "ur": "كواہويلا",
+          "vi": "Coahuila",
+          "zh": "科阿韦拉州",
+          "zht": "科阿韋拉州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Коауила",
+      "en": "Coahuila",
+      "ar": "ولاية كواهويلا",
+      "de": "Coahuila",
+      "es": "Coahuila de Zaragoza",
+      "fr": "Coahuila",
+      "it": "Coahuila",
+      "zh": "科阿韋拉州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-TM",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-TAM",
+        "state_name": "Tamaulipas",
+        "i18n": {
+          "ar": "ولاية تاماوليباس",
+          "bn": "তামাউলিপাস",
+          "de": "Tamaulipas",
+          "el": "Ταμαουλίπας",
+          "en": "Tamaulipas",
+          "es": "Tamaulipas",
+          "fa": "تامائولیپاس",
+          "fr": "Tamaulipas",
+          "he": "טמאוליפס",
+          "hi": "तमौलिपास",
+          "hu": "Tamaulipas",
+          "id": "Tamaulipas",
+          "it": "Tamaulipas",
+          "ja": "タマウリパス州",
+          "ko": "타마울리파스",
+          "nl": "Tamaulipas",
+          "pl": "Tamaulipas",
+          "pt": "Tamaulipas",
+          "ru": "Тамаулипас",
+          "sv": "Tamaulipas",
+          "tr": "Tamaulipas",
+          "uk": "Тамауліпас",
+          "ur": "تاماولیپاس",
+          "vi": "Tamaulipas",
+          "zh": "塔毛利帕斯州",
+          "zht": "塔毛利帕斯"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Тамаулипас",
+      "en": "Tamaulipas",
+      "ar": "ولاية تاماوليباس",
+      "de": "Tamaulipas",
+      "es": "Tamaulipas",
+      "fr": "Tamaulipas",
+      "it": "Tamaulipas",
+      "zh": "塔毛利帕斯州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-NL",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-NLE",
+        "state_name": "Nuevo León",
+        "i18n": {
+          "ar": "ولاية نويفو ليون",
+          "bn": "নুয়েবো লেওন",
+          "de": "Nuevo León",
+          "el": "Νουέβο Λεόν",
+          "en": "Nuevo León",
+          "es": "Nuevo León",
+          "fa": "نوئوو لئون",
+          "fr": "Nuevo León",
+          "he": "נואבו לאון",
+          "hi": "नुएवो लिओन",
+          "hu": "Új-León",
+          "id": "León Baru",
+          "it": "Nuevo León",
+          "ja": "ヌエボ・レオン州",
+          "ko": "누에보레온",
+          "nl": "Nuevo León",
+          "pl": "Nuevo León",
+          "pt": "Nuevo León",
+          "ru": "Нуэво-Леон",
+          "sv": "Nuevo León",
+          "tr": "Nuevo León",
+          "uk": "Нуево-Леон",
+          "ur": "نیوو لیون",
+          "vi": "Nuevo León",
+          "zh": "新莱昂州",
+          "zht": "新萊昂州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Нуэво-Леон",
+      "en": "Nuevo León",
+      "ar": "ولاية نويفو ليون",
+      "de": "Nuevo León",
+      "es": "Nuevo León",
+      "fr": "Nuevo León",
+      "it": "Nuevo León",
+      "zh": "新萊昂州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-QR",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-ROO",
+        "state_name": "Quintana Roo",
+        "i18n": {
+          "ar": "كينتانا رو",
+          "bn": "কিন্তানা রো",
+          "de": "Quintana Roo",
+          "el": "Κιντάνα Ρόο",
+          "en": "Quintana Roo",
+          "es": "Quintana Roo",
+          "fa": "کینتانا رو",
+          "fr": "Quintana Roo",
+          "he": "קינטנה רו",
+          "hi": "क्विंटाना रू",
+          "hu": "Quintana Roo",
+          "id": "Quintana Roo",
+          "it": "Quintana Roo",
+          "ja": "キンタナ・ロー州",
+          "ko": "킨타나로오",
+          "nl": "Quintana Roo",
+          "pl": "Quintana Roo",
+          "pt": "Quintana Roo",
+          "ru": "Кинтана-Роо",
+          "sv": "Quintana Roo",
+          "tr": "Quintana Roo",
+          "uk": "Кінтана-Роо",
+          "ur": "کوینتانا رو",
+          "vi": "Quintana Roo",
+          "zh": "金塔纳罗奥州",
+          "zht": "金塔納羅奧州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Кинтана-Роо",
+      "en": "Quintana Roo",
+      "ar": "ولاية كينتانا رو",
+      "de": "Quintana Roo",
+      "es": "Quintana Roo",
+      "fr": "Quintana Roo",
+      "it": "Quintana Roo",
+      "zh": "金塔納羅奧州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-CM",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-CAM",
+        "state_name": "Campeche",
+        "i18n": {
+          "ar": "ولاية كامبيتشي",
+          "bn": "কাম্পেচে",
+          "de": "Campeche",
+          "el": "Καμπέτσε",
+          "en": "Campeche",
+          "es": "Campeche",
+          "fa": "کامپچه",
+          "fr": "Campeche",
+          "he": "קמפצ'ה",
+          "hi": "कैम्पेचे",
+          "hu": "Campeche",
+          "id": "Campeche",
+          "it": "Campeche",
+          "ja": "カンペチェ州",
+          "ko": "캄페체",
+          "nl": "Campeche",
+          "pl": "Campeche",
+          "pt": "Campeche",
+          "ru": "Кампече",
+          "sv": "Campeche",
+          "tr": "Campeche",
+          "uk": "Кампече",
+          "ur": "کامپیچی",
+          "vi": "Campeche",
+          "zh": "坎佩切州",
+          "zht": "坎佩切州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Кампече",
+      "en": "Campeche",
+      "ar": "ولاية كامبيتشي",
+      "de": "Campeche",
+      "es": "Campeche",
+      "fr": "État de Campeche",
+      "it": "Campeche",
+      "zh": "坎佩切州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-TB",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-TAB",
+        "state_name": "Tabasco",
+        "i18n": {
+          "ar": "تاباسكو",
+          "bn": "তাবাসকো",
+          "de": "Tabasco",
+          "el": "Ταμπάσκο",
+          "en": "Tabasco",
+          "es": "Tabasco",
+          "fa": "ایالت تاباسکو",
+          "fr": "Tabasco",
+          "he": "טבסקו",
+          "hi": "टबैस्को",
+          "hu": "Tabasco",
+          "id": "Tabasco",
+          "it": "Tabasco",
+          "ja": "タバスコ州",
+          "ko": "타바스코",
+          "nl": "Tabasco",
+          "pl": "Tabasco",
+          "pt": "Tabasco",
+          "ru": "Табаско",
+          "sv": "Tabasco",
+          "tr": "Tabasco",
+          "uk": "Табаско",
+          "ur": "تاباسکو",
+          "vi": "Tabasco",
+          "zh": "塔巴斯科州",
+          "zht": "塔巴斯科州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Табаско",
+      "en": "Tabasco",
+      "ar": "تاباسكو",
+      "de": "Tabasco",
+      "es": "Tabasco",
+      "fr": "Tabasco",
+      "it": "Tabasco",
+      "zh": "塔巴斯科州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-CP",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-CHP",
+        "state_name": "Chiapas",
+        "i18n": {
+          "ar": "تشياباس",
+          "bn": "চিয়াপাস",
+          "de": "Chiapas",
+          "el": "Τσιάπας",
+          "en": "Chiapas",
+          "es": "Chiapas",
+          "fa": "چیاپاس",
+          "fr": "Chiapas",
+          "he": "צ'יאפס",
+          "hi": "चियापास",
+          "hu": "Chiapas",
+          "id": "Chiapas",
+          "it": "Chiapas",
+          "ja": "チアパス州",
+          "ko": "치아파스",
+          "nl": "Chiapas",
+          "pl": "Chiapas",
+          "pt": "Chiapas",
+          "ru": "Чьяпас",
+          "sv": "Chiapas",
+          "tr": "Chiapas",
+          "uk": "Чіапас",
+          "ur": "چیاپاس",
+          "vi": "Chiapas",
+          "zh": "恰帕斯州",
+          "zht": "恰帕斯州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Чьяпас",
+      "en": "Chiapas",
+      "ar": "تشياباس",
+      "de": "Chiapas",
+      "es": "Chiapas",
+      "fr": "Chiapas",
+      "it": "Chiapas",
+      "zh": "恰帕斯州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-CL",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-COL",
+        "state_name": "Colima",
+        "i18n": {
+          "ar": "ولاية كوليما",
+          "bn": "কোলিমা",
+          "de": "Colima",
+          "el": "Κολίμα",
+          "en": "Colima",
+          "es": "Colima",
+          "fa": "کولیما",
+          "fr": "Colima",
+          "he": "קולימה",
+          "hi": "कोलीमा",
+          "hu": "Colima",
+          "id": "Colima",
+          "it": "Colima",
+          "ja": "コリマ州",
+          "ko": "콜리마",
+          "nl": "Colima",
+          "pl": "Colima",
+          "pt": "Colima",
+          "ru": "Колима",
+          "sv": "Colima",
+          "tr": "Colima",
+          "uk": "Коліма",
+          "ur": "کولیما",
+          "vi": "Colima",
+          "zh": "科利马州",
+          "zht": "科利馬州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Колима",
+      "en": "Colima",
+      "ar": "ولاية كوليما",
+      "de": "Colima",
+      "es": "Colima",
+      "fr": "État de Colima",
+      "it": "Colima",
+      "zh": "科利馬州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-NA",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-NAY",
+        "state_name": "Nayarit",
+        "i18n": {
+          "ar": "ولاية ناياريت",
+          "bn": "নায়ারিত",
+          "de": "Nayarit",
+          "el": "Ναγιαρίτ",
+          "en": "Nayarit",
+          "es": "Nayarit",
+          "fa": "نایاریت",
+          "fr": "Nayarit",
+          "he": "נאיאריט",
+          "hi": "नयारित",
+          "hu": "Nayarit",
+          "id": "Nayarit",
+          "it": "Nayarit",
+          "ja": "ナヤリット州",
+          "ko": "나야리트",
+          "nl": "Nayarit",
+          "pl": "Nayarit",
+          "pt": "Nayarit",
+          "ru": "Наярит",
+          "sv": "Nayarit",
+          "tr": "Nayarit",
+          "uk": "Наярит",
+          "ur": "نایاریت",
+          "vi": "Nayarit",
+          "zh": "纳亚里特州",
+          "zht": "特皮克"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Наярит",
+      "en": "Nayarit",
+      "ar": "ناياريت",
+      "de": "Nayarit",
+      "es": "Nayarit",
+      "fr": "Nayarit",
+      "it": "Nayarit",
+      "zh": "納亞里特州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-BS",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-BCS",
+        "state_name": "Baja California Sur",
+        "i18n": {
+          "ar": "ولاية باها كاليفورنيا سور",
+          "bn": "বাহা কালিফোর্নিয়া সুর",
+          "de": "Baja California Sur",
+          "el": "Μπάχα Καλιφόρνια Σουρ",
+          "en": "Baja California Sur",
+          "es": "Baja California Sur",
+          "fa": "باحا کالیفرنیا سور",
+          "fr": "Basse-Californie du Sud",
+          "he": "באחה קליפורניה הדרומית",
+          "hi": "बाखा कैलिफोर्निया सुर",
+          "hu": "Déli-Alsó-Kalifornia",
+          "id": "Baja California Sur",
+          "it": "Bassa California del Sud",
+          "ja": "バハ・カリフォルニア・スル州",
+          "ko": "바하칼리포르니아수르",
+          "nl": "Baja California Sur",
+          "pl": "Kalifornia Dolna Południowa",
+          "pt": "Baja California Sur",
+          "ru": "Южная Нижняя Калифорния",
+          "sv": "Baja California Sur",
+          "tr": "Güney Aşağı Kaliforniya",
+          "uk": "Баха-Каліфорнія-Сюр",
+          "ur": "باجا کیلیفورنیا سر",
+          "vi": "Baja California Sur",
+          "zh": "南下加利福尼亚州",
+          "zht": "南下加利福尼亞州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Южная Нижняя Калифорния",
+      "en": "Baja California Sur",
+      "ar": "ولاية باخا كاليفورنيا سور",
+      "de": "Baja California Sur",
+      "es": "Baja California Sur",
+      "fr": "Basse-Californie du Sud",
+      "it": "Bassa California del Sud",
+      "zh": "南下加利福尼亞州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-SI",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-SIN",
+        "state_name": "Sinaloa",
+        "i18n": {
+          "ar": "ولاية سينالوا",
+          "bn": "সিনালোয়া",
+          "de": "Sinaloa",
+          "el": "Σιναλόα",
+          "en": "Sinaloa",
+          "es": "Sinaloa",
+          "fa": "سینالوآ",
+          "fr": "Sinaloa",
+          "he": "סינלואה",
+          "hi": "सिनालोआ",
+          "hu": "Sinaloa",
+          "id": "Sinaloa",
+          "it": "Sinaloa",
+          "ja": "シナロア州",
+          "ko": "시날로아",
+          "nl": "Sinaloa",
+          "pl": "Sinaloa",
+          "pt": "Sinaloa",
+          "ru": "Синалоа",
+          "sv": "Sinaloa",
+          "tr": "Sinaloa",
+          "uk": "Сіналоа",
+          "ur": "سینالوا",
+          "vi": "Sinaloa",
+          "zh": "锡那罗亚州",
+          "zht": "錫那羅亞州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Синалоа",
+      "en": "Sinaloa",
+      "ar": "سينالوا",
+      "de": "Sinaloa",
+      "es": "Sinaloa",
+      "fr": "Sinaloa",
+      "it": "Sinaloa",
+      "zh": "錫那羅亞州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-YU",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-YUC",
+        "state_name": "Yucatán",
+        "i18n": {
+          "ar": "ولاية يوكاتان",
+          "bn": "ইয়ুকাতান",
+          "de": "Yucatán",
+          "el": "Γιουκατάν",
+          "en": "Yucatán",
+          "es": "Yucatán",
+          "fa": "یوکاتان",
+          "fr": "Yucatán",
+          "he": "יוקטן",
+          "hi": "युकाटन",
+          "hu": "Yucatán",
+          "id": "Yucatán",
+          "it": "Yucatán",
+          "ja": "ユカタン州",
+          "ko": "유카탄",
+          "nl": "Yucatán",
+          "pl": "Jukatan",
+          "pt": "Iucatão",
+          "ru": "Юкатан",
+          "sv": "Yucatán",
+          "tr": "Yucatán",
+          "uk": "Юкатан",
+          "ur": "یوکتان",
+          "vi": "Yucatán",
+          "zh": "尤卡坦州",
+          "zht": "尤卡坦州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Юкатан",
+      "en": "Yucatán",
+      "ar": "ولاية يوكاتان",
+      "de": "Yucatán",
+      "es": "Yucatán",
+      "fr": "Yucatán",
+      "it": "Yucatán",
+      "zh": "尤卡坦州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-VE",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-VER",
+        "state_name": "Veracruz",
+        "i18n": {
+          "ar": "ولاية فيراكروز",
+          "bn": "বেরাক্রুস",
+          "de": "Veracruz",
+          "el": "Βερακρούζ",
+          "en": "Veracruz",
+          "es": "Estado de Veracruz",
+          "fa": "وراکروس",
+          "fr": "Veracruz",
+          "he": "וראקרוס",
+          "hi": "वेराक्रुज़",
+          "hu": "Veracruz",
+          "id": "Veracruz",
+          "it": "Veracruz",
+          "ja": "ベラクルス州",
+          "ko": "베라크루스",
+          "nl": "Veracruz de Ignacio de la Llave",
+          "pl": "Veracruz",
+          "pt": "Veracruz",
+          "ru": "Веракрус",
+          "sv": "Veracruz",
+          "tr": "Veracruz",
+          "uk": "Веракрус",
+          "ur": "ویراکروز",
+          "vi": "Veracruz",
+          "zh": "韦拉克鲁斯州",
+          "zht": "維拉克魯斯州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Веракрус",
+      "en": "Veracruz",
+      "ar": "ولاية فيراكروز",
+      "de": "Veracruz",
+      "es": "Veracruz de Ignacio de la Llave",
+      "fr": "Veracruz",
+      "it": "Veracruz",
+      "zh": "韋拉克魯斯州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-JA",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-JAL",
+        "state_name": "Jalisco",
+        "i18n": {
+          "ar": "ولاية خاليسكو",
+          "bn": "হালিস্কো",
+          "de": "Jalisco",
+          "el": "Χαλίσκο",
+          "en": "Jalisco",
+          "es": "Jalisco",
+          "fa": "خالیسکو",
+          "fr": "Jalisco",
+          "he": "חליסקו",
+          "hi": "जलिस्को",
+          "hu": "Jalisco",
+          "id": "Jalisco",
+          "it": "Jalisco",
+          "ja": "ハリスコ州",
+          "ko": "할리스코",
+          "nl": "Jalisco",
+          "pl": "Jalisco",
+          "pt": "Jalisco",
+          "ru": "Халиско",
+          "sv": "Jalisco",
+          "tr": "Jalisco",
+          "uk": "Халіско",
+          "ur": "جلیسکو",
+          "vi": "Jalisco",
+          "zh": "哈利斯科州",
+          "zht": "哈利斯科州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Халиско",
+      "en": "Jalisco",
+      "ar": "ولاية خاليسكو",
+      "de": "Jalisco",
+      "es": "Jalisco",
+      "fr": "Jalisco",
+      "it": "Jalisco",
+      "zh": "哈利斯科州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-MC",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-MIC",
+        "state_name": "Michoacán",
+        "i18n": {
+          "ar": "ميتشواكان",
+          "bn": "মিচোয়াকান",
+          "de": "Michoacán",
+          "el": "Μιτσοακάν",
+          "en": "Michoacán",
+          "es": "Michoacán",
+          "fa": "میچوآکان",
+          "fr": "Michoacán",
+          "he": "מיצ'ואקאן",
+          "hi": "मिचौआकैन",
+          "hu": "Michoacán",
+          "id": "Michoacán",
+          "it": "Michoacán",
+          "ja": "ミチョアカン州",
+          "ko": "미초아칸",
+          "nl": "Michoacán de Ocampo",
+          "pl": "Michoacán",
+          "pt": "Michoacán",
+          "ru": "Мичоакан",
+          "sv": "Michoacán de Ocampo",
+          "tr": "Michoacán",
+          "uk": "Мічоакан",
+          "ur": "میشواکان",
+          "vi": "Michoacán",
+          "zh": "米却肯州",
+          "zht": "米卻肯州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Мичоакан",
+      "en": "Michoacán",
+      "ar": "ولاية ميتشواكان",
+      "de": "Michoacán",
+      "es": "Michoacán",
+      "fr": "Michoacán",
+      "it": "Michoacán",
+      "zh": "米却肯州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-GR",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-GRO",
+        "state_name": "Guerrero",
+        "i18n": {
+          "ar": "ولاية غيريرو",
+          "bn": "গেরেরো",
+          "de": "Guerrero",
+          "el": "Γκερρέρο",
+          "en": "Guerrero",
+          "es": "Guerrero",
+          "fa": "گوئررو",
+          "fr": "Guerrero",
+          "he": "גררו",
+          "hi": "ग्वेरेरो",
+          "hu": "Guerrero",
+          "id": "Guerrero",
+          "it": "Guerrero",
+          "ja": "ゲレーロ州",
+          "ko": "게레로",
+          "nl": "Guerrero",
+          "pl": "Guerrero",
+          "pt": "Guerrero",
+          "ru": "Герреро",
+          "sv": "Guerrero",
+          "tr": "Guerrero",
+          "uk": "Ґерреро",
+          "ur": "گیریرو",
+          "vi": "Guerrero",
+          "zh": "格雷罗州",
+          "zht": "格雷羅州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Герреро",
+      "en": "Guerrero",
+      "ar": "ولاية غيريرو",
+      "de": "Guerrero",
+      "es": "Estado de Guerrero",
+      "fr": "Guerrero",
+      "it": "Guerrero",
+      "zh": "格雷羅州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-OA",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-OAX",
+        "state_name": "Oaxaca",
+        "i18n": {
+          "ar": "ولاية واهاكا",
+          "bn": "ওয়াহাকা",
+          "de": "Oaxaca",
+          "el": "Οαχάκα",
+          "en": "Oaxaca",
+          "es": "Oaxaca",
+          "fa": "اوآخاکا",
+          "fr": "Oaxaca",
+          "he": "אואחאקה",
+          "hi": "वाहाका",
+          "hu": "Oaxaca",
+          "id": "Oaxaca",
+          "it": "Oaxaca",
+          "ja": "オアハカ州",
+          "ko": "오아하카",
+          "nl": "Oaxaca",
+          "pl": "Oaxaca",
+          "pt": "Oaxaca",
+          "ru": "Оахака",
+          "sv": "Oaxaca",
+          "tr": "Oaxaca",
+          "uk": "Оахака",
+          "ur": "اوکساکا",
+          "vi": "Oaxaca",
+          "zh": "瓦哈卡州",
+          "zht": "瓦哈卡市"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Оахака",
+      "en": "Oaxaca",
+      "ar": "ولاية واهاكا",
+      "de": "Oaxaca",
+      "es": "Oaxaca",
+      "fr": "État de Oaxaca",
+      "it": "Oaxaca",
+      "zh": "瓦哈卡州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-01",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-X01",
+        "state_name": "Mexico minor island",
+        "i18n": {}
+      }
+    ]
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-MX",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-MEX",
+        "state_name": "México",
+        "i18n": {
+          "ar": "ولاية مكسيكو",
+          "bn": "মেক্সিকো রাজ্য",
+          "de": "México",
+          "el": "Πολιτεία του Μεξικού",
+          "en": "State of Mexico",
+          "es": "Estado de México",
+          "fa": "ایالت مکزیک",
+          "fr": "État de Mexico",
+          "he": "מקסיקו",
+          "hi": "मेक्सिको",
+          "hu": "México",
+          "id": "Meksiko",
+          "it": "Messico",
+          "ja": "メヒコ州",
+          "ko": "멕시코",
+          "nl": "Mexico",
+          "pl": "Meksyk",
+          "pt": "México",
+          "ru": "Мехико",
+          "sv": "Mexiko",
+          "tr": "Meksika",
+          "uk": "Мехіко",
+          "ur": "ریاست میکسیکو",
+          "vi": "México",
+          "zh": "墨西哥州",
+          "zht": "墨西哥州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Мехико",
+      "en": "State of Mexico",
+      "ar": "مكسيكو",
+      "de": "México",
+      "es": "Estado de México",
+      "fr": "État de Mexico",
+      "it": "Messico",
+      "zh": "墨西哥州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-PU",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-PUE",
+        "state_name": "Puebla",
+        "i18n": {
+          "ar": "ولاية بويبلا",
+          "bn": "পুয়েব্লা",
+          "de": "Puebla",
+          "el": "Πουέμπλα",
+          "en": "Puebla",
+          "es": "Puebla",
+          "fa": "پوئبلا",
+          "fr": "Puebla",
+          "he": "פואבלה",
+          "hi": "प्यूएबला",
+          "hu": "Puebla",
+          "id": "Puebla",
+          "it": "Puebla",
+          "ja": "プエブラ州",
+          "ko": "푸에블라",
+          "nl": "Puebla",
+          "pl": "Puebla",
+          "pt": "Puebla",
+          "ru": "Пуэбла",
+          "sv": "Puebla",
+          "tr": "Puebla",
+          "uk": "Пуебла",
+          "ur": "پوئبلا",
+          "vi": "Puebla",
+          "zh": "普埃布拉州",
+          "zht": "普埃布拉州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Пуэбла",
+      "en": "Puebla",
+      "ar": "ولاية بويبلا",
+      "de": "Puebla",
+      "es": "Puebla",
+      "fr": "État de Puebla",
+      "it": "Puebla",
+      "zh": "普埃布拉州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-MR",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-MOR",
+        "state_name": "Morelos",
+        "i18n": {
+          "ar": "ولاية موريلوس",
+          "bn": "মোরেলোস",
+          "de": "Morelos",
+          "el": "Μορέλος",
+          "en": "Morelos",
+          "es": "Morelos",
+          "fa": "ایالت مورلوس",
+          "fr": "Morelos",
+          "he": "מורלוס",
+          "hi": "मोरेलोस",
+          "hu": "Morelos",
+          "id": "Morelos",
+          "it": "Morelos",
+          "ja": "モレロス州",
+          "ko": "모렐로스",
+          "nl": "Morelos",
+          "pl": "Morelos",
+          "pt": "Morelos",
+          "ru": "Морелос",
+          "sv": "Morelos",
+          "tr": "Morelos",
+          "uk": "Морелос",
+          "ur": "موریلوس",
+          "vi": "Morelos",
+          "zh": "莫雷洛斯州",
+          "zht": "莫雷洛斯州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Морелос",
+      "en": "Morelos",
+      "ar": "ولاية موريلوس",
+      "de": "Morelos",
+      "es": "Morelos",
+      "fr": "Morelos",
+      "it": "Morelos",
+      "zh": "莫雷洛斯州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-QE",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-QUE",
+        "state_name": "Querétaro",
+        "i18n": {
+          "ar": "ولاية كيريتارو",
+          "bn": "কেরেতারো",
+          "de": "Querétaro",
+          "el": "Κερέταρο",
+          "en": "Querétaro",
+          "es": "Querétaro",
+          "fa": "کرتارو",
+          "fr": "Querétaro",
+          "he": "קרטרו",
+          "hi": "क्वेरेतारो",
+          "hu": "Querétaro",
+          "id": "Querétaro",
+          "it": "Querétaro",
+          "ja": "ケレタロ州",
+          "ko": "케레타로",
+          "nl": "Querétaro",
+          "pl": "Querétaro",
+          "pt": "Querétaro",
+          "ru": "Керетаро",
+          "sv": "Querétaro Arteaga",
+          "tr": "Querétaro",
+          "uk": "Керетаро",
+          "ur": "کوارتارو",
+          "vi": "Querétaro",
+          "zh": "克雷塔罗州",
+          "zht": "克雷塔羅州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Керетаро",
+      "en": "Querétaro",
+      "ar": "ولاية كويريتارو",
+      "de": "Querétaro",
+      "es": "Querétaro",
+      "fr": "Querétaro",
+      "it": "Querétaro",
+      "zh": "克雷塔羅州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-HI",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-HID",
+        "state_name": "Hidalgo",
+        "i18n": {
+          "ar": "ولاية هيدالغو",
+          "bn": "ইদাল্গো",
+          "de": "Hidalgo",
+          "el": "Ιδάλγο",
+          "en": "Hidalgo",
+          "es": "Hidalgo",
+          "fa": "ایالت ایدالگو",
+          "fr": "Hidalgo",
+          "he": "אידלגו",
+          "hi": "हिदाल्गो",
+          "hu": "Hidalgo",
+          "id": "Hidalgo",
+          "it": "Hidalgo",
+          "ja": "イダルゴ州",
+          "ko": "이달고",
+          "nl": "Hidalgo",
+          "pl": "Hidalgo",
+          "pt": "Hidalgo",
+          "ru": "Идальго",
+          "sv": "Hidalgo",
+          "tr": "Hidalgo",
+          "uk": "Ідальго",
+          "ur": "ہیدالگو",
+          "vi": "Hidalgo",
+          "zh": "伊达尔戈州",
+          "zht": "伊達爾戈州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Идальго",
+      "en": "Hidalgo",
+      "ar": "ولاية هيدالجو",
+      "de": "Hidalgo",
+      "es": "Estado de Hidalgo",
+      "fr": "État d'Hidalgo",
+      "it": "Hidalgo",
+      "zh": "伊達爾戈州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-GJ",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-GUA",
+        "state_name": "Guanajuato",
+        "i18n": {
+          "ar": "ولاية غواناخواتو",
+          "bn": "গুয়ানাহুয়াতো",
+          "de": "Guanajuato",
+          "el": "Γκουαναχουάτο",
+          "en": "Guanajuato",
+          "es": "Guanajuato",
+          "fa": "گوآناخوآتو",
+          "fr": "Guanajuato",
+          "he": "גואנחואטו",
+          "hi": "गुआनाउआटो",
+          "hu": "Guanajuato",
+          "id": "Guanajuato",
+          "it": "Guanajuato",
+          "ja": "グアナフアト州",
+          "ko": "과나후아토",
+          "nl": "Guanajuato",
+          "pl": "Guanajuato",
+          "pt": "Guanajuato",
+          "ru": "Гуанахуато",
+          "sv": "Guanajuato",
+          "tr": "Guanajuato",
+          "uk": "Гуанахуато",
+          "ur": "گوانجواتو",
+          "vi": "Guanajuato",
+          "zh": "瓜纳华托州",
+          "zht": "瓜納華托"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Гуанахуато",
+      "en": "Guanajuato",
+      "ar": "ولاية غواناخواتو",
+      "de": "Guanajuato",
+      "es": "Guanajuato",
+      "fr": "État de Guanajuato",
+      "it": "Guanajuato",
+      "zh": "瓜納華托州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-SL",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-SLP",
+        "state_name": "San Luis Potosí",
+        "i18n": {
+          "ar": "ولاية سان لويس بوتوسي",
+          "bn": "সান লুইস পোতোসি",
+          "de": "San Luis Potosí",
+          "el": "Σαν Λουίς Ποτοσί",
+          "en": "San Luis Potosí",
+          "es": "San Luis Potosí",
+          "fa": "سن لوئیس پوتوسی",
+          "fr": "San Luis Potosí",
+          "he": "סן לואיס פוטוסי",
+          "hi": "सैन लुइ पोटोसी",
+          "hu": "San Luis Potosí",
+          "id": "San Luis Potosí",
+          "it": "San Luis Potosí",
+          "ja": "サン・ルイス・ポトシ州",
+          "ko": "산루이스포토시",
+          "nl": "San Luis Potosí",
+          "pl": "San Luis Potosí",
+          "pt": "San Luis Potosí",
+          "ru": "Сан-Луис-Потоси",
+          "sv": "San Luis Potosí",
+          "tr": "San Luis Potosí",
+          "uk": "Сан-Луїс-Потосі",
+          "ur": "سان لوئیس پوتوسی",
+          "vi": "San Luis Potosí",
+          "zh": "圣路易斯波托西州",
+          "zht": "聖路易斯波托西市"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Сан-Луис-Потоси",
+      "en": "San Luis Potosí",
+      "ar": "سان لويس بوتوسي",
+      "de": "San Luis Potosí",
+      "es": "San Luis Potosí",
+      "fr": "État de San Luis Potosí",
+      "it": "San Luis Potosí",
+      "zh": "聖路易斯波托西州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-ZA",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-ZAC",
+        "state_name": "Zacatecas",
+        "i18n": {
+          "ar": "ولاية زاكاتيكاس",
+          "bn": "সাকাতেকাস",
+          "de": "Zacatecas",
+          "el": "Ζακατέκας",
+          "en": "Zacatecas",
+          "es": "Zacatecas",
+          "fa": "ساکاتکاس",
+          "fr": "Zacatecas",
+          "he": "סקטקס",
+          "hi": "ज़काटेकास",
+          "hu": "Zacatecas",
+          "id": "Zacatecas",
+          "it": "Zacatecas",
+          "ja": "サカテカス州",
+          "ko": "사카테카스",
+          "nl": "Zacatecas",
+          "pl": "Zacatecas",
+          "pt": "Zacatecas",
+          "ru": "Сакатекас",
+          "sv": "Zacatecas",
+          "tr": "Zacatecas",
+          "uk": "Сакатекас",
+          "ur": "زاکاٹیکاس",
+          "vi": "Zacatecas",
+          "zh": "萨卡特卡斯州",
+          "zht": "薩卡特卡斯州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Сакатекас",
+      "en": "Zacatecas",
+      "ar": "ولاية زاكاتيكاس",
+      "de": "Zacatecas",
+      "es": "Zacatecas",
+      "fr": "État de Zacatecas",
+      "it": "Zacatecas",
+      "zh": "薩卡特卡斯州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-AG",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-AGU",
+        "state_name": "Aguascalientes",
+        "i18n": {
+          "ar": "ولاية أغواسكالينتس",
+          "bn": "আগুয়াসকালিয়েন্তেস",
+          "de": "Aguascalientes",
+          "el": "Αγουασκαλιέντες",
+          "en": "Aguascalientes",
+          "es": "Aguascalientes",
+          "fa": "آگوئاسکالینتس",
+          "fr": "Aguascalientes",
+          "he": "אגואסקליינטס",
+          "hi": "अगुआसकैलिएंटेस",
+          "hu": "Aguascalientes",
+          "id": "Aguascalientes",
+          "it": "Aguascalientes",
+          "ja": "アグアスカリエンテス州",
+          "ko": "아과스칼리엔테스",
+          "nl": "Aguascalientes",
+          "pl": "Aguascalientes",
+          "pt": "Aguascalientes",
+          "ru": "Агуаскальентес",
+          "sv": "Aguascalientes",
+          "tr": "Aguascalientes",
+          "uk": "Аґуаскальєнтес",
+          "ur": "آگوسکالینٹس",
+          "vi": "Aguascalientes",
+          "zh": "阿瓜斯卡连特斯州",
+          "zht": "阿瓜斯卡連特斯"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Агуаскальентес",
+      "en": "Aguascalientes",
+      "ar": "ولاية اغواسكالينتس",
+      "de": "Aguascalientes",
+      "es": "Aguascalientes",
+      "fr": "Aguascalientes",
+      "it": "Aguascalientes",
+      "zh": "阿瓜斯卡連特斯州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-DU",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-DUR",
+        "state_name": "Durango",
+        "i18n": {
+          "ar": "ولاية دورانغو",
+          "bn": "দুরাঙ্গো",
+          "de": "Durango",
+          "el": "Ντουράνγκο",
+          "en": "Durango",
+          "es": "Durango",
+          "fa": "دورانگو",
+          "fr": "Durango",
+          "he": "דורנגו",
+          "hi": "दुरंगो",
+          "hu": "Durango",
+          "id": "Durango",
+          "it": "Durango",
+          "ja": "ドゥランゴ州",
+          "ko": "두랑고",
+          "nl": "Durango",
+          "pl": "Durango",
+          "pt": "Durango",
+          "ru": "Дуранго",
+          "sv": "Durango",
+          "tr": "Durango",
+          "uk": "Дуранго",
+          "ur": "دورانگو",
+          "vi": "Durango",
+          "zh": "杜兰戈州",
+          "zht": "杜蘭戈州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Дуранго",
+      "en": "Durango",
+      "ar": "ولاية دورانجو",
+      "de": "Durango",
+      "es": "Durango",
+      "fr": "État de Durango",
+      "it": "Durango",
+      "zh": "杜蘭戈州"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-TL",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-TLA",
+        "state_name": "Tlaxcala",
+        "i18n": {
+          "ar": "ولاية تلاكسكالا",
+          "bn": "ত্লাক্সকালা",
+          "de": "Tlaxcala",
+          "el": "Τλαξκάλα",
+          "en": "Tlaxcala",
+          "es": "Tlaxcala",
+          "fa": "تلاسکالا",
+          "fr": "Tlaxcala",
+          "he": "טלקסקלה",
+          "hi": "लैक्सकाला",
+          "hu": "Tlaxcala",
+          "id": "Tlaxcala",
+          "it": "Tlaxcala",
+          "ja": "トラスカラ州",
+          "ko": "틀락스칼라",
+          "nl": "Tlaxcala",
+          "pl": "Tlaxcala",
+          "pt": "Tlaxcala",
+          "ru": "Тласкала",
+          "sv": "Tlaxcala",
+          "tr": "Tlaxcala",
+          "uk": "Тласкала",
+          "ur": "تلاکسکالا",
+          "vi": "Tlaxcala",
+          "zh": "特拉斯卡拉州",
+          "zht": "特拉斯卡拉州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Тласкала",
+      "en": "Tlaxcala",
+      "ar": "ولاية تلاكسكالا",
+      "de": "Tlaxcala",
+      "es": "Tlaxcala",
+      "fr": "État de Tlaxcala",
+      "it": "Tlaxcala",
+      "zh": "特拉斯卡拉"
+    }
+  },
+  {
+    "country_a2": "MX",
+    "region_code": "MX-DF",
+    "region_name": "Mexico",
+    "states": [
+      {
+        "state_code": "MX-DIF",
+        "state_name": "Distrito Federal",
+        "i18n": {
+          "ar": "مدينة مكسيكو",
+          "bn": "মেক্সিকো সিটি",
+          "de": "Mexiko-Stadt",
+          "el": "Πόλη του Μεξικού",
+          "en": "Mexico",
+          "es": "México",
+          "fa": "مکزیکو سیتی",
+          "fr": "Mexico",
+          "he": "מקסיקו סיטי",
+          "hi": "मेक्सिको नगर",
+          "hu": "Mexikóváros",
+          "id": "Kota Meksiko",
+          "it": "Città del Messico",
+          "ja": "メキシコシティ",
+          "ko": "멕시코시티",
+          "nl": "Mexico-Stad",
+          "pl": "Meksyk",
+          "pt": "Cidade do México",
+          "ru": "Мехико",
+          "sv": "Mexico",
+          "tr": "Meksiko",
+          "uk": "Мехіко",
+          "ur": "میکسیکو شہر",
+          "vi": "Thành phố México",
+          "zh": "墨西哥城",
+          "zht": "墨西哥城"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Мехико",
+      "ar": "مدينة مكسيكو",
+      "de": "Mexiko-Stadt",
+      "en": "Mexico City",
+      "es": "México",
+      "fr": "Mexico",
+      "it": "Città del Messico",
+      "zh": "墨西哥城"
+    }
+  },
+  {
+    "country_a2": "CA",
+    "region_code": "CA-NT",
+    "region_name": "Northwest Territories",
+    "states": [
+      {
+        "state_code": "CA-NT",
+        "state_name": "Northwest Territories",
+        "i18n": {
+          "ar": "الأقاليم الشمالية الغربية",
+          "bn": "উত্তরপশ্চিম অধীনস্থ অঞ্চলসমূহ",
+          "de": "Nordwest-Territorien",
+          "el": "Βορειοδυτικά Εδάφη",
+          "en": "Northwest Territories",
+          "es": "Territorios del Noroeste",
+          "fa": "نواحی شمال غرب",
+          "fr": "Territoires du Nord-Ouest",
+          "he": "הטריטוריות הצפון-מערביות",
+          "hi": "नॉर्थवेस्ट टेरीटरीज़",
+          "hu": "Északnyugati területek",
+          "id": "Wilayah Barat Laut",
+          "it": "Territori del Nord-Ovest",
+          "ja": "ノースウエスト準州",
+          "ko": "노스웨스트 준",
+          "nl": "Northwest Territories",
+          "pl": "Terytoria Północno-Zachodnie",
+          "pt": "Territórios do Noroeste",
+          "ru": "Северо-Западные территории",
+          "sv": "Northwest Territories",
+          "tr": "Kuzeybatı Toprakları",
+          "uk": "Північно-Західні території",
+          "ur": "شمال مغربی علاقہ جات، کینیڈا",
+          "vi": "Các Lãnh thổ Tây Bắc",
+          "zh": "西北地区",
+          "zht": "西北地區"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Северо-Западные территории",
+      "en": "Northwest Territories",
+      "ar": "الأقاليم الشمالية الغربية",
+      "de": "Nordwest-Territorien",
+      "es": "Territorios del Noroeste",
+      "fr": "Territoires du Nord-Ouest",
+      "it": "Territori del Nord-Ovest",
+      "zh": "西北地区"
+    }
+  },
+  {
+    "country_a2": "CA",
+    "region_code": "CA-NU",
+    "region_name": "Nunavut",
+    "states": [
+      {
+        "state_code": "CA-NU",
+        "state_name": "Nunavut",
+        "i18n": {
+          "ar": "نونافوت",
+          "bn": "নুনাভুট",
+          "de": "Nunavut",
+          "el": "Νούναβουτ",
+          "en": "Nunavut",
+          "es": "Nunavut",
+          "fa": "نوناووت",
+          "fr": "Nunavut",
+          "he": "נונאווט",
+          "hi": "नुनावुत",
+          "hu": "Nunavut",
+          "id": "Nunavut",
+          "it": "Nunavut",
+          "ja": "ヌナブト準州",
+          "ko": "누나부트 준",
+          "nl": "Nunavut",
+          "pl": "Nunavut",
+          "pt": "Nunavut",
+          "ru": "Нунавут",
+          "sv": "Nunavut",
+          "tr": "Nunavut",
+          "uk": "Нунавут",
+          "ur": "نناوت",
+          "vi": "Nunavut",
+          "zh": "努纳武特",
+          "zht": "努納福特"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Нунавут",
+      "en": "Nunavut",
+      "ar": "نونافوت",
+      "de": "Nunavut",
+      "es": "Nunavut",
+      "fr": "Nunavut",
+      "it": "Nunavut",
+      "zh": "努納武特"
+    }
+  },
+  {
+    "country_a2": "IN",
+    "region_code": "IN-KAS",
+    "region_name": "Siachen Glacier",
+    "states": [
+      {
+        "state_code": "-99-X06",
+        "state_name": "Kashmir",
+        "i18n": {
+          "ar": "كشمير",
+          "bn": "কাশ্মীর",
+          "de": "Kaschmir",
+          "el": "Κασμίρ",
+          "en": "Kashmir",
+          "es": "Cachemira",
+          "fa": "کشمیر",
+          "fr": "Kashmir",
+          "he": "קשמיר",
+          "hi": "कश्मीर",
+          "hu": "Kasmír",
+          "id": "Kashmir",
+          "it": "Kashmir",
+          "ja": "カシミール",
+          "ko": "카슈미르",
+          "nl": "Kashmir",
+          "pl": "Kaszmir",
+          "pt": "Caxemira",
+          "ru": "Кашмир",
+          "sv": "Kashmir",
+          "tr": "Kashmir",
+          "uk": "Кашмір",
+          "ur": "کشمیر",
+          "vi": "Kashmir",
+          "zh": "克什米尔",
+          "zht": "喀什米爾"
+        }
+      }
+    ]
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-WA",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-WA",
+        "state_name": "Washington",
+        "i18n": {
+          "ar": "واشنطن",
+          "bn": "ওয়াশিংটন",
+          "de": "Washington",
+          "el": "Ουάσινγκτον",
+          "en": "Washington",
+          "es": "Washington",
+          "fa": "ایالت واشینگتن",
+          "fr": "Washington",
+          "he": "וושינגטון",
+          "hi": "वॉशिंगटन राज्य",
+          "hu": "Washington",
+          "id": "Washington",
+          "it": "Washington",
+          "ja": "ワシントン州",
+          "ko": "워싱턴",
+          "nl": "Washington",
+          "pl": "Waszyngton",
+          "pt": "Washington",
+          "ru": "Вашингтон",
+          "sv": "Washington",
+          "tr": "Vaşington",
+          "uk": "Вашингтон",
+          "ur": "ریاست واشنگٹن",
+          "vi": "Washington",
+          "zh": "华盛顿州",
+          "zht": "華盛頓州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Вашингтон",
+      "en": "Washington",
+      "ar": "واشنطن",
+      "de": "Washington",
+      "es": "Washington",
+      "fr": "Washington",
+      "it": "Washington",
+      "zh": "华盛顿州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-ID",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-ID",
+        "state_name": "Idaho",
+        "i18n": {
+          "ar": "أيداهو",
+          "bn": "আইডাহো",
+          "de": "Idaho",
+          "el": "Άινταχο",
+          "en": "Idaho",
+          "es": "Idaho",
+          "fa": "آیداهو",
+          "fr": "Idaho",
+          "he": "איידהו",
+          "hi": "आयडाहो",
+          "hu": "Idaho",
+          "id": "Idaho",
+          "it": "Idaho",
+          "ja": "アイダホ州",
+          "ko": "아이다호",
+          "nl": "Idaho",
+          "pl": "Idaho",
+          "pt": "Idaho",
+          "ru": "Айдахо",
+          "sv": "Idaho",
+          "tr": "Idaho",
+          "uk": "Айдахо",
+          "ur": "ایڈاہو",
+          "vi": "Idaho",
+          "zh": "爱达荷州",
+          "zht": "愛達荷州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Айдахо",
+      "en": "Idaho",
+      "ar": "أيداهو",
+      "de": "Idaho",
+      "es": "Idaho",
+      "fr": "Idaho",
+      "it": "Idaho",
+      "zh": "爱达荷州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-MT",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-MT",
+        "state_name": "Montana",
+        "i18n": {
+          "ar": "مونتانا",
+          "bn": "মন্টানা",
+          "de": "Montana",
+          "el": "Μοντάνα",
+          "en": "Montana",
+          "es": "Montana",
+          "fa": "ایالت مونتانا",
+          "fr": "Montana",
+          "he": "מונטנה",
+          "hi": "मोन्टाना",
+          "hu": "Montana",
+          "id": "Montana",
+          "it": "Montana",
+          "ja": "モンタナ州",
+          "ko": "몬태나",
+          "nl": "Montana",
+          "pl": "Montana",
+          "pt": "Montana",
+          "ru": "Монтана",
+          "sv": "Montana",
+          "tr": "Montana",
+          "uk": "Монтана",
+          "ur": "مونٹانا",
+          "vi": "Montana",
+          "zh": "蒙大拿州",
+          "zht": "蒙大拿州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Монтана",
+      "ar": "مونتانا",
+      "de": "Montana",
+      "en": "Montana",
+      "es": "Montana",
+      "fr": "Montana",
+      "it": "Montana",
+      "zh": "蒙大拿州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-ND",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-ND",
+        "state_name": "North Dakota",
+        "i18n": {
+          "ar": "داكوتا الشمالية",
+          "bn": "নর্থ ডাকোটা",
+          "de": "North Dakota",
+          "el": "Βόρεια Ντακότα",
+          "en": "North Dakota",
+          "es": "Dakota del Norte",
+          "fa": "داکوتای شمالی",
+          "fr": "Dakota du Nord",
+          "he": "דקוטה הצפונית",
+          "hi": "उत्तर डेकोटा",
+          "hu": "Észak-Dakota",
+          "id": "Dakota Utara",
+          "it": "Dakota del Nord",
+          "ja": "ノースダコタ州",
+          "ko": "노스다코타",
+          "nl": "Noord-Dakota",
+          "pl": "Dakota Północna",
+          "pt": "Dakota do Norte",
+          "ru": "Северная Дакота",
+          "sv": "North Dakota",
+          "tr": "Kuzey Dakota",
+          "uk": "Північна Дакота",
+          "ur": "شمالی ڈکوٹا",
+          "vi": "Bắc Dakota",
+          "zh": "北达科他州",
+          "zht": "北達科他州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Северная Дакота",
+      "en": "North Dakota",
+      "ar": "داكوتا الشمالية",
+      "de": "North Dakota",
+      "es": "Dakota del Norte",
+      "fr": "Dakota du Nord",
+      "it": "Dakota del Nord",
+      "zh": "北达科他州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-MN",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-MN",
+        "state_name": "Minnesota",
+        "i18n": {
+          "ar": "مينيسوتا",
+          "bn": "মিনেসোটা",
+          "de": "Minnesota",
+          "el": "Μινεσότα",
+          "en": "Minnesota",
+          "es": "Minnesota",
+          "fa": "مینهسوتا",
+          "fr": "Minnesota",
+          "he": "מינסוטה",
+          "hi": "मिनेसोटा",
+          "hu": "Minnesota",
+          "id": "Minnesota",
+          "it": "Minnesota",
+          "ja": "ミネソタ州",
+          "ko": "미네소타",
+          "nl": "Minnesota",
+          "pl": "Minnesota",
+          "pt": "Minnesota",
+          "ru": "Миннесота",
+          "sv": "Minnesota",
+          "tr": "Minnesota",
+          "uk": "Міннесота",
+          "ur": "مینیسوٹا",
+          "vi": "Minnesota",
+          "zh": "明尼苏达州",
+          "zht": "明尼蘇達州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Миннесота",
+      "en": "Minnesota",
+      "ar": "مينيسوتا",
+      "de": "Minnesota",
+      "es": "Minnesota",
+      "fr": "Minnesota",
+      "it": "Minnesota",
+      "zh": "明尼蘇達州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-MI",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-MI",
+        "state_name": "Michigan",
+        "i18n": {
+          "ar": "ميشيغان",
+          "bn": "মিশিগান",
+          "de": "Michigan",
+          "el": "Μίσιγκαν",
+          "en": "Michigan",
+          "es": "Míchigan",
+          "fa": "میشیگان",
+          "fr": "Michigan",
+          "he": "מישיגן",
+          "hi": "मिशिगन",
+          "hu": "Michigan",
+          "id": "Michigan",
+          "it": "Michigan",
+          "ja": "ミシガン州",
+          "ko": "미시간",
+          "nl": "Michigan",
+          "pl": "Michigan",
+          "pt": "Michigan",
+          "ru": "Мичиган",
+          "sv": "Michigan",
+          "tr": "Michigan",
+          "uk": "Мічиган",
+          "ur": "مشی گن",
+          "vi": "Michigan",
+          "zh": "密歇根州",
+          "zht": "密歇根州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Мичиган",
+      "en": "Michigan",
+      "ar": "ميشيغان",
+      "de": "Michigan",
+      "es": "Míchigan",
+      "fr": "Michigan",
+      "it": "Michigan",
+      "zh": "密歇根州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-OH",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-OH",
+        "state_name": "Ohio",
+        "i18n": {
+          "ar": "أوهايو",
+          "bn": "ওহাইও",
+          "de": "Ohio",
+          "el": "Οχάιο",
+          "en": "Ohio",
+          "es": "Ohio",
+          "fa": "اوهایو",
+          "fr": "Ohio",
+          "he": "אוהיו",
+          "hi": "ओहायो",
+          "hu": "Ohio",
+          "id": "Ohio",
+          "it": "Ohio",
+          "ja": "オハイオ州",
+          "ko": "오하이오",
+          "nl": "Ohio",
+          "pl": "Ohio",
+          "pt": "Ohio",
+          "ru": "Огайо",
+          "sv": "Ohio",
+          "tr": "Ohio",
+          "uk": "Огайо",
+          "ur": "اوہائیو",
+          "vi": "Ohio",
+          "zh": "俄亥俄州",
+          "zht": "俄亥俄州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Огайо",
+      "en": "Ohio",
+      "ar": "أوهايو",
+      "de": "Ohio",
+      "es": "Ohio",
+      "fr": "Ohio",
+      "it": "Ohio",
+      "zh": "俄亥俄州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-PA",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-PA",
+        "state_name": "Pennsylvania",
+        "i18n": {
+          "ar": "بنسيلفانيا",
+          "bn": "পেনসিলভেনিয়া",
+          "de": "Pennsylvania",
+          "el": "Πενσιλβάνια",
+          "en": "Pennsylvania",
+          "es": "Pensilvania",
+          "fa": "پنسیلوانیا",
+          "fr": "Pennsylvanie",
+          "he": "פנסילבניה",
+          "hi": "पेन्सिलवेनिया",
+          "hu": "Pennsylvania",
+          "id": "Pennsylvania",
+          "it": "Pennsylvania",
+          "ja": "ペンシルベニア州",
+          "ko": "펜실베이니아",
+          "nl": "Pennsylvania",
+          "pl": "Pensylwania",
+          "pt": "Pensilvânia",
+          "ru": "Пенсильвания",
+          "sv": "Pennsylvania",
+          "tr": "Pensilvanya",
+          "uk": "Пенсильванія",
+          "ur": "پنسلوانیا",
+          "vi": "Pennsylvania",
+          "zh": "宾夕法尼亚州",
+          "zht": "賓夕法尼亞州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Пенсильвания",
+      "en": "Pennsylvania",
+      "ar": "بنسيلفانيا",
+      "de": "Pennsylvania",
+      "es": "Pensilvania",
+      "fr": "Pennsylvanie",
+      "it": "Pennsylvania",
+      "zh": "宾夕法尼亚州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-NY",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-NY",
+        "state_name": "New York",
+        "i18n": {
+          "ar": "نيويورك",
+          "bn": "নিউ ইয়র্ক",
+          "de": "New York",
+          "el": "Νέα Υόρκη",
+          "en": "New York",
+          "es": "Nueva York",
+          "fa": "نیویورک",
+          "fr": "État de New York",
+          "he": "ניו יורק",
+          "hi": "न्यूयॉर्क",
+          "hu": "New York",
+          "id": "New York",
+          "it": "New York",
+          "ja": "ニューヨーク州",
+          "ko": "뉴욕",
+          "nl": "New York",
+          "pl": "Nowy Jork",
+          "pt": "Nova Iorque",
+          "ru": "Нью-Йорк",
+          "sv": "New York",
+          "tr": "New York",
+          "uk": "Штат Нью-Йорк",
+          "ur": "نیویارک",
+          "vi": "New York",
+          "zh": "纽约州",
+          "zht": "紐約州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Нью-Йорк",
+      "en": "New York",
+      "ar": "نيويورك",
+      "de": "New York City",
+      "es": "Nueva York",
+      "fr": "New York",
+      "it": "New York",
+      "zh": "纽约"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-VT",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-VT",
+        "state_name": "Vermont",
+        "i18n": {
+          "ar": "فيرمونت",
+          "bn": "ভার্মন্ট",
+          "de": "Vermont",
+          "el": "Βερμόντ",
+          "en": "Vermont",
+          "es": "Vermont",
+          "fa": "ورمونت",
+          "fr": "Vermont",
+          "he": "ורמונט",
+          "hi": "वर्मांट",
+          "hu": "Vermont",
+          "id": "Vermont",
+          "it": "Vermont",
+          "ja": "バーモント州",
+          "ko": "버몬트",
+          "nl": "Vermont",
+          "pl": "Vermont",
+          "pt": "Vermont",
+          "ru": "Вермонт",
+          "sv": "Vermont",
+          "tr": "Vermont",
+          "uk": "Вермонт",
+          "ur": "ورمونٹ",
+          "vi": "Vermont",
+          "zh": "佛蒙特州",
+          "zht": "佛蒙特州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Вермонт",
+      "en": "Vermont",
+      "ar": "فيرمونت",
+      "de": "Vermont",
+      "es": "Vermont",
+      "fr": "Vermont",
+      "it": "Vermont",
+      "zh": "佛蒙特州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-NH",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-NH",
+        "state_name": "New Hampshire",
+        "i18n": {
+          "ar": "نيوهامبشير",
+          "bn": "নিউ হ্যাম্প্শায়ার",
+          "de": "New Hampshire",
+          "el": "Νιου Χάμσαϊρ",
+          "en": "New Hampshire",
+          "es": "Nuevo Hampshire",
+          "fa": "نیوهمپشایر",
+          "fr": "New Hampshire",
+          "he": "ניו המפשייר",
+          "hi": "नया हेम्पशायर",
+          "hu": "New Hampshire",
+          "id": "New Hampshire",
+          "it": "New Hampshire",
+          "ja": "ニューハンプシャー州",
+          "ko": "뉴햄프셔",
+          "nl": "New Hampshire",
+          "pl": "New Hampshire",
+          "pt": "Nova Hampshire",
+          "ru": "Нью-Гэмпшир",
+          "sv": "New Hampshire",
+          "tr": "New Hampshire",
+          "uk": "Нью-Гемпшир",
+          "ur": "نیو ہیمپشائر",
+          "vi": "New Hampshire",
+          "zh": "新罕布什尔州",
+          "zht": "新罕布夏州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Нью-Гэмпшир",
+      "en": "New Hampshire",
+      "ar": "نيوهامشير",
+      "de": "New Hampshire",
+      "es": "Nuevo Hampshire",
+      "fr": "New Hampshire",
+      "it": "New Hampshire",
+      "zh": "新罕布什尔州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-ME",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-ME",
+        "state_name": "Maine",
+        "i18n": {
+          "ar": "مين",
+          "bn": "মেইন",
+          "de": "Maine",
+          "el": "Μέιν",
+          "en": "Maine",
+          "es": "Maine",
+          "fa": "مین",
+          "fr": "Maine",
+          "he": "מיין",
+          "hi": "मेन",
+          "hu": "Maine",
+          "id": "Maine",
+          "it": "Maine",
+          "ja": "メイン州",
+          "ko": "메인",
+          "nl": "Maine",
+          "pl": "Maine",
+          "pt": "Maine",
+          "ru": "Мэн",
+          "sv": "Maine",
+          "tr": "Maine",
+          "uk": "Мен",
+          "ur": "مینے",
+          "vi": "Maine",
+          "zh": "缅因州",
+          "zht": "缅因州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Мэн",
+      "en": "Maine",
+      "ar": "مين",
+      "de": "Maine",
+      "es": "Maine",
+      "fr": "Maine",
+      "it": "Maine",
+      "zh": "缅因州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-AZ",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-AZ",
+        "state_name": "Arizona",
+        "i18n": {
+          "ar": "أريزونا",
+          "bn": "অ্যারিজোনা",
+          "de": "Arizona",
+          "el": "Αριζόνα",
+          "en": "Arizona",
+          "es": "Arizona",
+          "fa": "آریزونا",
+          "fr": "Arizona",
+          "he": "אריזונה",
+          "hi": "एरीजोना",
+          "hu": "Arizona",
+          "id": "Arizona",
+          "it": "Arizona",
+          "ja": "アリゾナ州",
+          "ko": "애리조나",
+          "nl": "Arizona",
+          "pl": "Arizona",
+          "pt": "Arizona",
+          "ru": "Аризона",
+          "sv": "Arizona",
+          "tr": "Arizona",
+          "uk": "Аризона",
+          "ur": "ایریزونا",
+          "vi": "Arizona",
+          "zh": "亚利桑那州",
+          "zht": "亞利桑那州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Аризона",
+      "en": "Arizona",
+      "ar": "أريزونا",
+      "de": "Arizona",
+      "es": "Arizona",
+      "fr": "Arizona",
+      "it": "Arizona",
+      "zh": "亞利桑那州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-CA",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-CA",
+        "state_name": "California",
+        "i18n": {
+          "ar": "كاليفورنيا",
+          "bn": "ক্যালিফোর্নিয়া",
+          "de": "Kalifornien",
+          "el": "Καλιφόρνια",
+          "en": "California",
+          "es": "California",
+          "fa": "کالیفرنیا",
+          "fr": "Californie",
+          "he": "קליפורניה",
+          "hi": "कैलिफ़ोर्निया",
+          "hu": "Kalifornia",
+          "id": "California",
+          "it": "California",
+          "ja": "カリフォルニア州",
+          "ko": "캘리포니아",
+          "nl": "Californië",
+          "pl": "Kalifornia",
+          "pt": "Califórnia",
+          "ru": "Калифорния",
+          "sv": "Kalifornien",
+          "tr": "Kaliforniya",
+          "uk": "Каліфорнія",
+          "ur": "کیلی فورنیا",
+          "vi": "California",
+          "zh": "加利福尼亚州",
+          "zht": "加利福尼亞州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Калифорния",
+      "en": "California",
+      "ar": "كاليفورنيا",
+      "de": "Kalifornien",
+      "es": "California",
+      "fr": "Californie",
+      "it": "California",
+      "zh": "加利福尼亚州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-NM",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-NM",
+        "state_name": "New Mexico",
+        "i18n": {
+          "ar": "نيومكسيكو",
+          "bn": "নিউ মেক্সিকো",
+          "de": "New Mexico",
+          "el": "Νέο Μεξικό",
+          "en": "New Mexico",
+          "es": "Nuevo México",
+          "fa": "نیومکزیکو",
+          "fr": "Nouveau-Mexique",
+          "he": "ניו מקסיקו",
+          "hi": "नया मेक्सिको",
+          "hu": "Új-Mexikó",
+          "id": "New Mexico",
+          "it": "Nuovo Messico",
+          "ja": "ニューメキシコ州",
+          "ko": "뉴멕시코",
+          "nl": "New Mexico",
+          "pl": "Nowy Meksyk",
+          "pt": "Novo México",
+          "ru": "Нью-Мексико",
+          "sv": "New Mexico",
+          "tr": "New Mexico",
+          "uk": "Нью-Мексико",
+          "ur": "نیو میکسیکو",
+          "vi": "New Mexico",
+          "zh": "新墨西哥州",
+          "zht": "新墨西哥州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Нью-Мексико",
+      "en": "New Mexico",
+      "ar": "نيومكسيكو",
+      "de": "New Mexico",
+      "es": "Nuevo México",
+      "fr": "Nouveau-Mexique",
+      "it": "Nuovo Messico",
+      "zh": "新墨西哥州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-TX",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-TX",
+        "state_name": "Texas",
+        "i18n": {
+          "ar": "تكساس",
+          "bn": "টেক্সাস",
+          "de": "Texas",
+          "el": "Τέξας",
+          "en": "Texas",
+          "es": "Texas",
+          "fa": "تگزاس",
+          "fr": "Texas",
+          "he": "טקסס",
+          "hi": "टॅक्सस",
+          "hu": "Texas",
+          "id": "Texas",
+          "it": "Texas",
+          "ja": "テキサス州",
+          "ko": "텍사스",
+          "nl": "Texas",
+          "pl": "Teksas",
+          "pt": "Texas",
+          "ru": "Техас",
+          "sv": "Texas",
+          "tr": "Teksas",
+          "uk": "Техас",
+          "ur": "ٹیکساس",
+          "vi": "Texas",
+          "zh": "得克萨斯州",
+          "zht": "德克薩斯州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Техас",
+      "en": "Texas",
+      "ar": "تكساس",
+      "de": "Texas",
+      "es": "Texas",
+      "fr": "Texas",
+      "it": "Texas",
+      "zh": "德克萨斯州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-AK",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-AK",
+        "state_name": "Alaska",
+        "i18n": {
+          "ar": "ألاسكا",
+          "bn": "আলাস্কা",
+          "de": "Alaska",
+          "el": "Αλάσκα",
+          "en": "Alaska",
+          "es": "Alaska",
+          "fa": "آلاسکا",
+          "fr": "Alaska",
+          "he": "אלסקה",
+          "hi": "अलास्का",
+          "hu": "Alaszka",
+          "id": "Alaska",
+          "it": "Alaska",
+          "ja": "アラスカ州",
+          "ko": "알래스카",
+          "nl": "Alaska",
+          "pl": "Alaska",
+          "pt": "Alasca",
+          "ru": "Аляска",
+          "sv": "Alaska",
+          "tr": "Alaska",
+          "uk": "Аляска",
+          "ur": "الاسکا",
+          "vi": "Alaska",
+          "zh": "阿拉斯加州",
+          "zht": "阿拉斯加州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Аляска",
+      "en": "Alaska",
+      "ar": "ألاسكا",
+      "de": "Alaska",
+      "es": "Alaska",
+      "fr": "Alaska",
+      "it": "Alaska",
+      "zh": "阿拉斯加州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-LA",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-LA",
+        "state_name": "Louisiana",
+        "i18n": {
+          "ar": "لويزيانا",
+          "bn": "লুইজিয়ানা",
+          "de": "Louisiana",
+          "el": "Λουιζιάνα",
+          "en": "Louisiana",
+          "es": "Luisiana",
+          "fa": "لوئیزیانا",
+          "fr": "Louisiane",
+          "he": "לואיזיאנה",
+          "hi": "लुईज़ियाना",
+          "hu": "Louisiana",
+          "id": "Louisiana",
+          "it": "Louisiana",
+          "ja": "ルイジアナ州",
+          "ko": "루이지애나",
+          "nl": "Louisiana",
+          "pl": "Luizjana",
+          "pt": "Luisiana",
+          "ru": "Луизиана",
+          "sv": "Louisiana",
+          "tr": "Louisiana",
+          "uk": "Луїзіана",
+          "ur": "لوزیانا",
+          "vi": "Louisiana",
+          "zh": "路易斯安那州",
+          "zht": "路易斯安那州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Луизиана",
+      "en": "Louisiana",
+      "ar": "لويزيانا",
+      "de": "Louisiana",
+      "es": "Luisiana",
+      "fr": "Louisiane",
+      "it": "Louisiana",
+      "zh": "路易斯安那州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-MS",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-MS",
+        "state_name": "Mississippi",
+        "i18n": {
+          "ar": "مسيسيبي",
+          "bn": "মিসিসিপি",
+          "de": "Mississippi",
+          "el": "Μισισίπι",
+          "en": "Mississippi",
+          "es": "Misisipi",
+          "fa": "میسیسیپی",
+          "fr": "Mississippi",
+          "he": "מיסיסיפי",
+          "hi": "मिसिसिप्पी",
+          "hu": "Mississippi",
+          "id": "Mississippi",
+          "it": "Mississippi",
+          "ja": "ミシシッピ州",
+          "ko": "미시시피",
+          "nl": "Mississippi",
+          "pl": "Missisipi",
+          "pt": "Mississippi",
+          "ru": "Миссисипи",
+          "sv": "Mississippi",
+          "tr": "Mississippi",
+          "uk": "Міссісіпі",
+          "ur": "مسیسپی",
+          "vi": "Mississippi",
+          "zh": "密西西比州",
+          "zht": "密西西比州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Миссисипи",
+      "en": "Mississippi",
+      "ar": "مسيسيبي",
+      "de": "Mississippi",
+      "es": "Misisipi",
+      "fr": "État du Mississippi",
+      "it": "Mississippi",
+      "zh": "密西西比州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-AL",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-AL",
+        "state_name": "Alabama",
+        "i18n": {
+          "ar": "ألاباما",
+          "bn": "অ্যালাবামা",
+          "de": "Alabama",
+          "el": "Αλαμπάμα",
+          "en": "Alabama",
+          "es": "Alabama",
+          "fa": "آلاباما",
+          "fr": "Alabama",
+          "he": "אלבמה",
+          "hi": "अलाबामा",
+          "hu": "Alabama",
+          "id": "Alabama",
+          "it": "Alabama",
+          "ja": "アラバマ州",
+          "ko": "앨라배마",
+          "nl": "Alabama",
+          "pl": "Alabama",
+          "pt": "Alabama",
+          "ru": "Алабама",
+          "sv": "Alabama",
+          "tr": "Alabama",
+          "uk": "Алабама",
+          "ur": "الاباما",
+          "vi": "Alabama",
+          "zh": "亚拉巴马州",
+          "zht": "阿拉巴馬州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Алабама",
+      "en": "Alabama",
+      "ar": "ألاباما",
+      "de": "Alabama",
+      "es": "Alabama",
+      "fr": "Alabama",
+      "it": "Alabama",
+      "zh": "亚拉巴马州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-FL",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-FL",
+        "state_name": "Florida",
+        "i18n": {
+          "ar": "فلوريدا",
+          "bn": "ফ্লোরিডা",
+          "de": "Florida",
+          "el": "Φλόριντα",
+          "en": "Florida",
+          "es": "Florida",
+          "fa": "فلوریدا",
+          "fr": "Floride",
+          "he": "פלורידה",
+          "hi": "फ़्लोरिडा",
+          "hu": "Florida",
+          "id": "Florida",
+          "it": "Florida",
+          "ja": "フロリダ州",
+          "ko": "플로리다",
+          "nl": "Florida",
+          "pl": "Floryda",
+          "pt": "Flórida",
+          "ru": "Флорида",
+          "sv": "Florida",
+          "tr": "Florida",
+          "uk": "Флорида",
+          "ur": "فلوریڈا",
+          "vi": "Florida",
+          "zh": "佛罗里达州",
+          "zht": "佛羅里達州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Флорида",
+      "en": "Florida",
+      "ar": "فلوريدا",
+      "de": "Florida",
+      "es": "Florida",
+      "fr": "Floride",
+      "it": "Florida",
+      "zh": "佛罗里达州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-GA",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-GA",
+        "state_name": "Georgia",
+        "i18n": {
+          "ar": "جورجيا",
+          "bn": "জর্জিয়া",
+          "de": "Georgia",
+          "el": "Τζόρτζια",
+          "en": "Georgia",
+          "es": "Georgia",
+          "fa": "جورجیا",
+          "fr": "Géorgie",
+          "he": "ג'ורג'יה",
+          "hi": "जॉर्जिया",
+          "hu": "Georgia",
+          "id": "Georgia",
+          "it": "Georgia",
+          "ja": "ジョージア州",
+          "ko": "조지아",
+          "nl": "Georgia",
+          "pl": "Georgia",
+          "pt": "Geórgia",
+          "ru": "Джорджия",
+          "sv": "Georgia",
+          "tr": "Georgia",
+          "uk": "Джорджія",
+          "ur": "ریاست جارجیا",
+          "vi": "Georgia",
+          "zh": "佐治亚州",
+          "zht": "喬治亞州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Джорджия",
+      "en": "Georgia",
+      "ar": "جورجيا",
+      "de": "Georgia",
+      "es": "Georgia",
+      "fr": "Géorgie",
+      "it": "Georgia",
+      "zh": "喬治亞州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-SC",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-SC",
+        "state_name": "South Carolina",
+        "i18n": {
+          "ar": "كارولاينا الجنوبية",
+          "bn": "সাউথ ক্যারোলাইনা",
+          "de": "South Carolina",
+          "el": "Νότια Καρολίνα",
+          "en": "South Carolina",
+          "es": "Carolina del Sur",
+          "fa": "کارولینای جنوبی",
+          "fr": "Caroline du Sud",
+          "he": "קרוליינה הדרומית",
+          "hi": "दक्षिणी केरोलाइना",
+          "hu": "Dél-Karolina",
+          "id": "Carolina Selatan",
+          "it": "Carolina del Sud",
+          "ja": "サウスカロライナ州",
+          "ko": "사우스캐롤라이나",
+          "nl": "South Carolina",
+          "pl": "Karolina Południowa",
+          "pt": "Carolina do Sul",
+          "ru": "Южная Каролина",
+          "sv": "South Carolina",
+          "tr": "Güney Karolina",
+          "uk": "Південна Кароліна",
+          "ur": "جنوبی کیرولینا",
+          "vi": "Nam Carolina",
+          "zh": "南卡罗来纳州",
+          "zht": "南卡羅萊納州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Южная Каролина",
+      "en": "South Carolina",
+      "ar": "كارولاينا الجنوبية",
+      "de": "South Carolina",
+      "es": "Carolina del Sur",
+      "fr": "Caroline du Sud",
+      "it": "Carolina del Sud",
+      "zh": "南卡罗来纳州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-NC",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-NC",
+        "state_name": "North Carolina",
+        "i18n": {
+          "ar": "كارولاينا الشمالية",
+          "bn": "নর্থ ক্যারোলাইনা",
+          "de": "North Carolina",
+          "el": "Βόρεια Καρολίνα",
+          "en": "North Carolina",
+          "es": "Carolina del Norte",
+          "fa": "کارولینای شمالی",
+          "fr": "Caroline du Nord",
+          "he": "קרוליינה הצפונית",
+          "hi": "उत्तरी केरोलिना",
+          "hu": "Észak-Karolina",
+          "id": "Carolina Utara",
+          "it": "Carolina del Nord",
+          "ja": "ノースカロライナ州",
+          "ko": "노스캐롤라이나",
+          "nl": "North Carolina",
+          "pl": "Karolina Północna",
+          "pt": "Carolina do Norte",
+          "ru": "Северная Каролина",
+          "sv": "North Carolina",
+          "tr": "Kuzey Karolina",
+          "uk": "Північна Кароліна",
+          "ur": "شمالی کیرولینا",
+          "vi": "Bắc Carolina",
+          "zh": "北卡罗来纳州",
+          "zht": "北卡羅萊納州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Северная Каролина",
+      "en": "North Carolina",
+      "ar": "كارولاينا الشمالية",
+      "de": "North Carolina",
+      "es": "Carolina del Norte",
+      "fr": "Caroline du Nord",
+      "it": "Carolina del Nord",
+      "zh": "北卡罗来纳州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-VA",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-VA",
+        "state_name": "Virginia",
+        "i18n": {
+          "ar": "فرجينيا",
+          "bn": "ভার্জিনিয়া",
+          "de": "Virginia",
+          "el": "Βιρτζίνια",
+          "en": "Virginia",
+          "es": "Virginia",
+          "fa": "ویرجینیا",
+          "fr": "Virginie",
+          "he": "וירג'יניה",
+          "hi": "वर्जीनिया",
+          "hu": "Virginia",
+          "id": "Virginia",
+          "it": "Virginia",
+          "ja": "バージニア州",
+          "ko": "버지니아",
+          "nl": "Virginia",
+          "pl": "Wirginia",
+          "pt": "Virgínia",
+          "ru": "Виргиния",
+          "sv": "Virginia",
+          "tr": "Virjinya",
+          "uk": "Вірджинія",
+          "ur": "ورجینیا",
+          "vi": "Virginia",
+          "zh": "弗吉尼亚州",
+          "zht": "維吉尼亞州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Виргиния",
+      "en": "Virginia",
+      "ar": "فيرجينيا",
+      "de": "Virginia",
+      "es": "Virginia",
+      "fr": "Virginie",
+      "it": "Virginia",
+      "zh": "弗吉尼亚州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-DC",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-DC",
+        "state_name": "District of Columbia",
+        "i18n": {
+          "ar": "واشنطن",
+          "bn": "ওয়াশিংটন",
+          "de": "Washington",
+          "el": "Ουάσινγκτον",
+          "en": "Washington",
+          "es": "Washington D. C.",
+          "fa": "واشینگتن، دی. سی.",
+          "fr": "Washington",
+          "he": "וושינגטון די. סי.",
+          "hi": "वॉशिंगटन डी॰ सी॰",
+          "hu": "Washington",
+          "id": "Washington",
+          "it": "Washington",
+          "ja": "ワシントンD.C.",
+          "ko": "워싱턴 D.C.",
+          "nl": "Washington D.C.",
+          "pl": "Waszyngton",
+          "pt": "Washington",
+          "ru": "Вашингтон",
+          "sv": "Washington",
+          "tr": "Washington",
+          "uk": "Вашингтон",
+          "ur": "واشنگٹن ڈی سی",
+          "vi": "Washington",
+          "zh": "华盛顿哥伦比亚特区",
+          "zht": "華盛頓哥倫比亞特區"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Округ Колумбия",
+      "en": "District of Columbia",
+      "ar": "واشنطن العاصمة",
+      "de": "District of Columbia",
+      "es": "Distrito de Columbia",
+      "fr": "District de Columbia",
+      "it": "Distretto della Columbia",
+      "zh": "华盛顿哥伦比亚特区"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-MD",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-MD",
+        "state_name": "Maryland",
+        "i18n": {
+          "ar": "ماريلند",
+          "bn": "মেরিল্যান্ড",
+          "de": "Maryland",
+          "el": "Μέριλαντ",
+          "en": "Maryland",
+          "es": "Maryland",
+          "fa": "مریلند",
+          "fr": "Maryland",
+          "he": "מרילנד",
+          "hi": "मैरीलैंड",
+          "hu": "Maryland",
+          "id": "Maryland",
+          "it": "Maryland",
+          "ja": "メリーランド州",
+          "ko": "메릴랜드",
+          "nl": "Maryland",
+          "pl": "Maryland",
+          "pt": "Maryland",
+          "ru": "Мэриленд",
+          "sv": "Maryland",
+          "tr": "Maryland",
+          "uk": "Меріленд",
+          "ur": "میری لینڈ",
+          "vi": "Maryland",
+          "zh": "马里兰州",
+          "zht": "馬里蘭州"
+        }
+      }
+    ],
+    "i18n": {
+      "en": "Maryland"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-DE",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-DE",
+        "state_name": "Delaware",
+        "i18n": {
+          "ar": "ديلاوير",
+          "bn": "ডেলাওয়্যার",
+          "de": "Delaware",
+          "el": "Ντέλαγουερ",
+          "en": "Delaware",
+          "es": "Delaware",
+          "fa": "دلاویر",
+          "fr": "Delaware",
+          "he": "דלאוור",
+          "hi": "डेलावेयर",
+          "hu": "Delaware",
+          "id": "Delaware",
+          "it": "Delaware",
+          "ja": "デラウェア州",
+          "ko": "델라웨어",
+          "nl": "Delaware",
+          "pl": "Delaware",
+          "pt": "Delaware",
+          "ru": "Делавэр",
+          "sv": "Delaware",
+          "tr": "Delaware",
+          "uk": "Делавер",
+          "ur": "ڈیلاویئر",
+          "vi": "Delaware",
+          "zh": "特拉华州",
+          "zht": "特拉華州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Делавэр",
+      "en": "Delaware",
+      "ar": "ديلاوير",
+      "de": "Delaware",
+      "es": "Delaware",
+      "fr": "Delaware",
+      "it": "Delaware",
+      "zh": "特拉华州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-NJ",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-NJ",
+        "state_name": "New Jersey",
+        "i18n": {
+          "ar": "نيوجيرسي",
+          "bn": "নিউ জার্সি",
+          "de": "New Jersey",
+          "el": "Νιου Τζέρσεϊ",
+          "en": "New Jersey",
+          "es": "Nueva Jersey",
+          "fa": "نیوجرسی",
+          "fr": "New Jersey",
+          "he": "ניו ג'רזי",
+          "hi": "न्यू जर्सी",
+          "hu": "New Jersey",
+          "id": "New Jersey",
+          "it": "New Jersey",
+          "ja": "ニュージャージー州",
+          "ko": "뉴저지",
+          "nl": "New Jersey",
+          "pl": "New Jersey",
+          "pt": "Nova Jérsia",
+          "ru": "Нью-Джерси",
+          "sv": "New Jersey",
+          "tr": "New Jersey",
+          "uk": "Нью-Джерсі",
+          "ur": "نیو جرسی",
+          "vi": "New Jersey",
+          "zh": "新泽西州",
+          "zht": "紐澤西州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Нью-Джерси",
+      "en": "New Jersey",
+      "ar": "نيو جيرسي",
+      "de": "New Jersey",
+      "es": "Nueva Jersey",
+      "fr": "New Jersey",
+      "it": "New Jersey",
+      "zh": "新泽西州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-CT",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-CT",
+        "state_name": "Connecticut",
+        "i18n": {
+          "ar": "كونيتيكت",
+          "bn": "কানেটিকাট",
+          "de": "Connecticut",
+          "el": "Κονέκτικατ",
+          "en": "Connecticut",
+          "es": "Connecticut",
+          "fa": "کانتیکت",
+          "fr": "Connecticut",
+          "he": "קונטיקט",
+          "hi": "कनेक्टिकट",
+          "hu": "Connecticut",
+          "id": "Connecticut",
+          "it": "Connecticut",
+          "ja": "コネチカット州",
+          "ko": "코네티컷",
+          "nl": "Connecticut",
+          "pl": "Connecticut",
+          "pt": "Connecticut",
+          "ru": "Коннектикут",
+          "sv": "Connecticut",
+          "tr": "Connecticut",
+          "uk": "Коннектикут",
+          "ur": "کنیکٹیکٹ",
+          "vi": "Connecticut",
+          "zh": "康涅狄格州",
+          "zht": "康乃狄克州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Коннектикут",
+      "en": "Connecticut",
+      "ar": "كونيتيكت",
+      "de": "Connecticut",
+      "es": "Connecticut",
+      "fr": "Connecticut",
+      "it": "Connecticut",
+      "zh": "康乃狄克州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-RI",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-RI",
+        "state_name": "Rhode Island",
+        "i18n": {
+          "ar": "رود آيلاند",
+          "bn": "রোড আইল্যান্ড",
+          "de": "Rhode Island",
+          "el": "Ρόουντ Άιλαντ",
+          "en": "Rhode Island",
+          "es": "Rhode Island",
+          "fa": "رود آیلند",
+          "fr": "Rhode Island",
+          "he": "רוד איילנד",
+          "hi": "रोड आइलैंड",
+          "hu": "Rhode Island",
+          "id": "Rhode Island",
+          "it": "Rhode Island",
+          "ja": "ロードアイランド州",
+          "ko": "로드아일랜드",
+          "nl": "Rhode Island",
+          "pl": "Rhode Island",
+          "pt": "Rhode Island",
+          "ru": "Род-Айленд",
+          "sv": "Rhode Island",
+          "tr": "Rhode Island",
+          "uk": "Род-Айленд",
+          "ur": "رہوڈ آئی لینڈ",
+          "vi": "Rhode Island",
+          "zh": "罗得岛州",
+          "zht": "羅德島州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Род-Айленд",
+      "en": "Rhode Island",
+      "ar": "رود آيلاند",
+      "de": "Rhode Island",
+      "es": "Rhode Island",
+      "fr": "Rhode Island",
+      "it": "Rhode Island",
+      "zh": "羅德島州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-MA",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-MA",
+        "state_name": "Massachusetts",
+        "i18n": {
+          "ar": "ماساتشوستس",
+          "bn": "ম্যাসাচুসেটস",
+          "de": "Massachusetts",
+          "el": "Μασαχουσέτη",
+          "en": "Massachusetts",
+          "es": "Massachusetts",
+          "fa": "ماساچوست",
+          "fr": "Massachusetts",
+          "he": "מסצ'וסטס",
+          "hi": "मैसाचूसिट्स",
+          "hu": "Massachusetts",
+          "id": "Massachusetts",
+          "it": "Massachusetts",
+          "ja": "マサチューセッツ州",
+          "ko": "매사추세츠",
+          "nl": "Massachusetts",
+          "pl": "Massachusetts",
+          "pt": "Massachusetts",
+          "ru": "Массачусетс",
+          "sv": "Massachusetts",
+          "tr": "Massachusetts",
+          "uk": "Массачусетс",
+          "ur": "میساچوسٹس",
+          "vi": "Massachusetts",
+          "zh": "马萨诸塞州",
+          "zht": "麻薩諸塞州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Массачусетс",
+      "en": "Massachusetts",
+      "ar": "ماساتشوستس",
+      "de": "Massachusetts",
+      "es": "Massachusetts",
+      "fr": "Massachusetts",
+      "it": "Massachusetts",
+      "zh": "麻薩諸塞州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-OR",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-OR",
+        "state_name": "Oregon",
+        "i18n": {
+          "ar": "أوريغون",
+          "bn": "অরেগন",
+          "de": "Oregon",
+          "el": "Όρεγκον",
+          "en": "Oregon",
+          "es": "Oregón",
+          "fa": "اورگن",
+          "fr": "Oregon",
+          "he": "אורגון",
+          "hi": "औरिगन",
+          "hu": "Oregon",
+          "id": "Oregon",
+          "it": "Oregon",
+          "ja": "オレゴン州",
+          "ko": "오리건",
+          "nl": "Oregon",
+          "pl": "Oregon",
+          "pt": "Oregon",
+          "ru": "Орегон",
+          "sv": "Oregon",
+          "tr": "Oregon",
+          "uk": "Орегон",
+          "ur": "اوریگون",
+          "vi": "Oregon",
+          "zh": "俄勒冈州",
+          "zht": "奧勒岡州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Орегон",
+      "en": "Oregon",
+      "ar": "أوريغون",
+      "de": "Oregon",
+      "es": "Oregón",
+      "fr": "Oregon",
+      "it": "Oregon",
+      "zh": "俄勒冈州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-HI",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-HI",
+        "state_name": "Hawaii",
+        "i18n": {
+          "ar": "هاواي",
+          "bn": "হাওয়াই",
+          "de": "Hawaii",
+          "el": "Χαβάη",
+          "en": "Hawaii",
+          "es": "Hawái",
+          "fa": "هاوائی",
+          "fr": "Hawaï",
+          "he": "הוואי",
+          "hi": "हवाई",
+          "hu": "Hawaii",
+          "id": "Hawaii",
+          "it": "Hawaii",
+          "ja": "ハワイ州",
+          "ko": "하와이",
+          "nl": "Hawaï",
+          "pl": "Hawaje",
+          "pt": "Havaí",
+          "ru": "Гавайи",
+          "sv": "Hawaii",
+          "tr": "Hawaii",
+          "uk": "Гаваї",
+          "ur": "ہوائی",
+          "vi": "Hawaii",
+          "zh": "夏威夷州",
+          "zht": "夏威夷州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Гавайи",
+      "en": "Hawaii",
+      "ar": "هاواي",
+      "de": "Hawaii",
+      "es": "Hawái",
+      "fr": "Hawaï",
+      "it": "Hawaii",
+      "zh": "夏威夷州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-UT",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-UT",
+        "state_name": "Utah",
+        "i18n": {
+          "ar": "يوتا",
+          "bn": "ইউটা",
+          "de": "Utah",
+          "el": "Γιούτα",
+          "en": "Utah",
+          "es": "Utah",
+          "fa": "یوتا",
+          "fr": "Utah",
+          "he": "יוטה",
+          "hi": "यूटाह",
+          "hu": "Utah",
+          "id": "Utah",
+          "it": "Utah",
+          "ja": "ユタ州",
+          "ko": "유타",
+          "nl": "Utah",
+          "pl": "Utah",
+          "pt": "Utah",
+          "ru": "Юта",
+          "sv": "Utah",
+          "tr": "Utah",
+          "uk": "Юта",
+          "ur": "یوٹاہ",
+          "vi": "Utah",
+          "zh": "犹他州",
+          "zht": "猶他州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Юта",
+      "en": "Utah",
+      "ar": "يوتا",
+      "de": "Utah",
+      "es": "Utah",
+      "fr": "Utah",
+      "it": "Utah",
+      "zh": "犹他州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-WY",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-WY",
+        "state_name": "Wyoming",
+        "i18n": {
+          "ar": "وايومنغ",
+          "bn": "ওয়াইয়োমিং",
+          "de": "Wyoming",
+          "el": "Ουαϊόμινγκ",
+          "en": "Wyoming",
+          "es": "Wyoming",
+          "fa": "وایومینگ",
+          "fr": "Wyoming",
+          "he": "ויומינג",
+          "hi": "वायोमिंग",
+          "hu": "Wyoming",
+          "id": "Wyoming",
+          "it": "Wyoming",
+          "ja": "ワイオミング州",
+          "ko": "와이오밍",
+          "nl": "Wyoming",
+          "pl": "Wyoming",
+          "pt": "Wyoming",
+          "ru": "Вайоминг",
+          "sv": "Wyoming",
+          "tr": "Wyoming",
+          "uk": "Вайомінг",
+          "ur": "وائیومنگ",
+          "vi": "Wyoming",
+          "zh": "怀俄明州",
+          "zht": "懷俄明州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Вайоминг",
+      "en": "Wyoming",
+      "ar": "وايومنغ",
+      "de": "Wyoming",
+      "es": "Wyoming",
+      "fr": "Wyoming",
+      "it": "Wyoming",
+      "zh": "怀俄明州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-NV",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-NV",
+        "state_name": "Nevada",
+        "i18n": {
+          "ar": "نيفادا",
+          "bn": "নেভাডা",
+          "de": "Nevada",
+          "el": "Νεβάδα",
+          "en": "Nevada",
+          "es": "Nevada",
+          "fa": "نوادا",
+          "fr": "Nevada",
+          "he": "נבדה",
+          "hi": "नेवाडा",
+          "hu": "Nevada",
+          "id": "Nevada",
+          "it": "Nevada",
+          "ja": "ネバダ州",
+          "ko": "네바다",
+          "nl": "Nevada",
+          "pl": "Nevada",
+          "pt": "Nevada",
+          "ru": "Невада",
+          "sv": "Nevada",
+          "tr": "Nevada",
+          "uk": "Невада",
+          "ur": "نیواڈا",
+          "vi": "Nevada",
+          "zh": "内华达州",
+          "zht": "內華達州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Невада",
+      "en": "Nevada",
+      "ar": "نيفادا",
+      "de": "Nevada",
+      "es": "Nevada",
+      "fr": "Nevada",
+      "it": "Nevada",
+      "zh": "内华达州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-CO",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-CO",
+        "state_name": "Colorado",
+        "i18n": {
+          "ar": "كولورادو",
+          "bn": "কলোরাডো",
+          "de": "Colorado",
+          "el": "Κολοράντο",
+          "en": "Colorado",
+          "es": "Colorado",
+          "fa": "کلرادو",
+          "fr": "Colorado",
+          "he": "קולורדו",
+          "hi": "कॉलराडो",
+          "hu": "Colorado",
+          "id": "Colorado",
+          "it": "Colorado",
+          "ja": "コロラド州",
+          "ko": "콜로라도",
+          "nl": "Colorado",
+          "pl": "Kolorado",
+          "pt": "Colorado",
+          "ru": "Колорадо",
+          "sv": "Colorado",
+          "tr": "Colorado",
+          "uk": "Колорадо",
+          "ur": "کولوراڈو",
+          "vi": "Colorado",
+          "zh": "科罗拉多州",
+          "zht": "科羅拉多州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Колорадо",
+      "en": "Colorado",
+      "ar": "كولورادو",
+      "de": "Colorado",
+      "es": "Colorado",
+      "fr": "Colorado",
+      "it": "Colorado",
+      "zh": "科羅拉多州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-SD",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-SD",
+        "state_name": "South Dakota",
+        "i18n": {
+          "ar": "داكوتا الجنوبية",
+          "bn": "দক্ষিণ ডাকোটা",
+          "de": "South Dakota",
+          "el": "Νότια Ντακότα",
+          "en": "South Dakota",
+          "es": "Dakota del Sur",
+          "fa": "داکوتای جنوبی",
+          "fr": "Dakota du Sud",
+          "he": "דקוטה הדרומית",
+          "hi": "दक्षिण डकोटा",
+          "hu": "Dél-Dakota",
+          "id": "Dakota Selatan",
+          "it": "Dakota del Sud",
+          "ja": "サウスダコタ州",
+          "ko": "사우스다코타",
+          "nl": "South Dakota",
+          "pl": "Dakota Południowa",
+          "pt": "Dakota do Sul",
+          "ru": "Южная Дакота",
+          "sv": "South Dakota",
+          "tr": "Güney Dakota",
+          "uk": "Південна Дакота",
+          "ur": "جنوبی ڈکوٹا",
+          "vi": "Nam Dakota",
+          "zh": "南达科他州",
+          "zht": "南達科他州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Южная Дакота",
+      "en": "South Dakota",
+      "ar": "داكوتا الجنوبية",
+      "de": "South Dakota",
+      "es": "Dakota del Sur",
+      "fr": "Dakota du Sud",
+      "it": "Dakota del Sud",
+      "zh": "南达科他州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-NE",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-NE",
+        "state_name": "Nebraska",
+        "i18n": {
+          "ar": "نبراسكا",
+          "bn": "নেব্রাস্কা",
+          "de": "Nebraska",
+          "el": "Νεμπράσκα",
+          "en": "Nebraska",
+          "es": "Nebraska",
+          "fa": "نبراسکا",
+          "fr": "Nebraska",
+          "he": "נברסקה",
+          "hi": "नेब्रास्का",
+          "hu": "Nebraska",
+          "id": "Nebraska",
+          "it": "Nebraska",
+          "ja": "ネブラスカ州",
+          "ko": "네브래스카",
+          "nl": "Nebraska",
+          "pl": "Nebraska",
+          "pt": "Nebraska",
+          "ru": "Небраска",
+          "sv": "Nebraska",
+          "tr": "Nebraska",
+          "uk": "Небраска",
+          "ur": "نیبراسکا",
+          "vi": "Nebraska",
+          "zh": "內布拉斯加州",
+          "zht": "內布拉斯加州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Небраска",
+      "en": "Nebraska",
+      "ar": "نبراسكا",
+      "de": "Nebraska",
+      "es": "Nebraska",
+      "fr": "Nebraska",
+      "it": "Nebraska",
+      "zh": "內布拉斯加州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-KS",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-KS",
+        "state_name": "Kansas",
+        "i18n": {
+          "ar": "كانساس",
+          "bn": "ক্যান্সাস",
+          "de": "Kansas",
+          "el": "Κάνσας",
+          "en": "Kansas",
+          "es": "Kansas",
+          "fa": "کانزاس",
+          "fr": "Kansas",
+          "he": "קנזס",
+          "hi": "केन्सास",
+          "hu": "Kansas",
+          "id": "Kansas",
+          "it": "Kansas",
+          "ja": "カンザス州",
+          "ko": "캔자스",
+          "nl": "Kansas",
+          "pl": "Kansas",
+          "pt": "Kansas",
+          "ru": "Канзас",
+          "sv": "Kansas",
+          "tr": "Kansas",
+          "uk": "Канзас",
+          "ur": "کنساس",
+          "vi": "Kansas",
+          "zh": "堪萨斯州",
+          "zht": "堪薩斯州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Канзас",
+      "en": "Kansas",
+      "ar": "كانساس",
+      "de": "Kansas",
+      "es": "Kansas",
+      "fr": "Kansas",
+      "it": "Kansas",
+      "zh": "堪薩斯州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-OK",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-OK",
+        "state_name": "Oklahoma",
+        "i18n": {
+          "ar": "أوكلاهوما",
+          "bn": "ওকলাহোমা",
+          "de": "Oklahoma",
+          "el": "Οκλαχόμα",
+          "en": "Oklahoma",
+          "es": "Oklahoma",
+          "fa": "اکلاهما",
+          "fr": "Oklahoma",
+          "he": "אוקלהומה",
+          "hi": "ओक्लाहोमा",
+          "hu": "Oklahoma",
+          "id": "Oklahoma",
+          "it": "Oklahoma",
+          "ja": "オクラホマ州",
+          "ko": "오클라호마",
+          "nl": "Oklahoma",
+          "pl": "Oklahoma",
+          "pt": "Oklahoma",
+          "ru": "Оклахома",
+          "sv": "Oklahoma",
+          "tr": "Oklahoma",
+          "uk": "Оклахома",
+          "ur": "اوکلاہوما",
+          "vi": "Oklahoma",
+          "zh": "俄克拉荷马州",
+          "zht": "奧克拉荷馬州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Оклахома",
+      "en": "Oklahoma",
+      "ar": "أوكلاهوما",
+      "de": "Oklahoma",
+      "es": "Oklahoma",
+      "fr": "Oklahoma",
+      "it": "Oklahoma",
+      "zh": "奧克拉荷馬州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-IA",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-IA",
+        "state_name": "Iowa",
+        "i18n": {
+          "ar": "آيوا",
+          "bn": "আইওয়া",
+          "de": "Iowa",
+          "el": "Άιοβα",
+          "en": "Iowa",
+          "es": "Iowa",
+          "fa": "آیووا",
+          "fr": "Iowa",
+          "he": "איווה",
+          "hi": "आयोवा",
+          "hu": "Iowa",
+          "id": "Iowa",
+          "it": "Iowa",
+          "ja": "アイオワ州",
+          "ko": "아이오와",
+          "nl": "Iowa",
+          "pl": "Iowa",
+          "pt": "Iowa",
+          "ru": "Айова",
+          "sv": "Iowa",
+          "tr": "Iowa",
+          "uk": "Айова",
+          "ur": "آئیووا",
+          "vi": "Iowa",
+          "zh": "艾奥瓦州",
+          "zht": "愛荷華州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Айова",
+      "en": "Iowa",
+      "ar": "آيوا",
+      "de": "Iowa",
+      "es": "Iowa",
+      "fr": "Iowa",
+      "it": "Iowa",
+      "zh": "艾奥瓦州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-MO",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-MO",
+        "state_name": "Missouri",
+        "i18n": {
+          "ar": "ميزوري",
+          "bn": "মিসৌরি",
+          "de": "Missouri",
+          "el": "Μιζούρι",
+          "en": "Missouri",
+          "es": "Misuri",
+          "fa": "میزوری",
+          "fr": "Missouri",
+          "he": "מיזורי",
+          "hi": "मिसौरी",
+          "hu": "Missouri",
+          "id": "Missouri",
+          "it": "Missouri",
+          "ja": "ミズーリ州",
+          "ko": "미주리",
+          "nl": "Missouri",
+          "pl": "Missouri",
+          "pt": "Missouri",
+          "ru": "Миссури",
+          "sv": "Missouri",
+          "tr": "Missouri",
+          "uk": "Міссурі",
+          "ur": "مسوری",
+          "vi": "Missouri",
+          "zh": "密苏里州",
+          "zht": "密蘇里州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Миссури",
+      "en": "Missouri",
+      "ar": "ميزوري",
+      "de": "Missouri",
+      "es": "Misuri",
+      "fr": "Missouri",
+      "it": "Missouri",
+      "zh": "密蘇里州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-WI",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-WI",
+        "state_name": "Wisconsin",
+        "i18n": {
+          "ar": "ويسكونسن",
+          "bn": "উইসকনসিন",
+          "de": "Wisconsin",
+          "el": "Ουισκόνσιν",
+          "en": "Wisconsin",
+          "es": "Wisconsin",
+          "fa": "ویسکانسین",
+          "fr": "Wisconsin",
+          "he": "ויסקונסין",
+          "hi": "विस्कॉन्सिन",
+          "hu": "Wisconsin",
+          "id": "Wisconsin",
+          "it": "Wisconsin",
+          "ja": "ウィスコンシン州",
+          "ko": "위스콘신",
+          "nl": "Wisconsin",
+          "pl": "Wisconsin",
+          "pt": "Wisconsin",
+          "ru": "Висконсин",
+          "sv": "Wisconsin",
+          "tr": "Wisconsin",
+          "uk": "Вісконсин",
+          "ur": "وسکونسن",
+          "vi": "Wisconsin",
+          "zh": "威斯康星州",
+          "zht": "威斯康辛州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Висконсин",
+      "en": "Wisconsin",
+      "ar": "ويسكونسن",
+      "de": "Wisconsin",
+      "es": "Wisconsin",
+      "fr": "Wisconsin",
+      "it": "Wisconsin",
+      "zh": "威斯康辛州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-IL",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-IL",
+        "state_name": "Illinois",
+        "i18n": {
+          "ar": "إلينوي",
+          "bn": "ইলিনয়",
+          "de": "Illinois",
+          "el": "Ιλινόι",
+          "en": "Illinois",
+          "es": "Illinois",
+          "fa": "ایلینوی",
+          "fr": "Illinois",
+          "he": "אילינוי",
+          "hi": "इलिनॉय",
+          "hu": "Illinois",
+          "id": "Illinois",
+          "it": "Illinois",
+          "ja": "イリノイ州",
+          "ko": "일리노이",
+          "nl": "Illinois",
+          "pl": "Illinois",
+          "pt": "Illinois",
+          "ru": "Иллинойс",
+          "sv": "Illinois",
+          "tr": "Illinois",
+          "uk": "Іллінойс",
+          "ur": "الینوائے",
+          "vi": "Illinois",
+          "zh": "伊利诺伊州",
+          "zht": "伊利諾州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Иллинойс",
+      "en": "Illinois",
+      "ar": "إلينوي",
+      "de": "Illinois",
+      "es": "Illinois",
+      "fr": "Illinois",
+      "it": "Illinois",
+      "zh": "китайский"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-KY",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-KY",
+        "state_name": "Kentucky",
+        "i18n": {
+          "ar": "كنتاكي",
+          "bn": "কেন্টাকি",
+          "de": "Kentucky",
+          "el": "Κεντάκι",
+          "en": "Kentucky",
+          "es": "Kentucky",
+          "fa": "کنتاکی",
+          "fr": "Kentucky",
+          "he": "קנטקי",
+          "hi": "केन्टकी",
+          "hu": "Kentucky",
+          "id": "Kentucky",
+          "it": "Kentucky",
+          "ja": "ケンタッキー州",
+          "ko": "켄터키",
+          "nl": "Kentucky",
+          "pl": "Kentucky",
+          "pt": "Kentucky",
+          "ru": "Кентукки",
+          "sv": "Kentucky",
+          "tr": "Kentucky",
+          "uk": "Кентуккі",
+          "ur": "کینٹکی",
+          "vi": "Kentucky",
+          "zh": "肯塔基州",
+          "zht": "肯塔基州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Кентукки",
+      "en": "Kentucky",
+      "ar": "كنتاكي",
+      "de": "Kentucky",
+      "es": "Kentucky",
+      "fr": "Kentucky",
+      "it": "Kentucky",
+      "zh": "肯塔基州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-AR",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-AR",
+        "state_name": "Arkansas",
+        "i18n": {
+          "ar": "أركنساس",
+          "bn": "আর্কানসাস",
+          "de": "Arkansas",
+          "el": "Άρκανσο",
+          "en": "Arkansas",
+          "es": "Arkansas",
+          "fa": "آرکانزاس",
+          "fr": "Arkansas",
+          "he": "ארקנסו",
+          "hi": "अरकांसास",
+          "hu": "Arkansas",
+          "id": "Arkansas",
+          "it": "Arkansas",
+          "ja": "アーカンソー州",
+          "ko": "아칸소",
+          "nl": "Arkansas",
+          "pl": "Arkansas",
+          "pt": "Arkansas",
+          "ru": "Арканзас",
+          "sv": "Arkansas",
+          "tr": "Arkansas",
+          "uk": "Арканзас",
+          "ur": "آرکنساس",
+          "vi": "Arkansas",
+          "zh": "阿肯色州",
+          "zht": "阿肯色州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Арканзас",
+      "en": "Arkansas",
+      "ar": "أركنساس",
+      "de": "Arkansas",
+      "es": "Arkansas",
+      "fr": "Arkansas",
+      "it": "Arkansas",
+      "zh": "阿肯色州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-TN",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-TN",
+        "state_name": "Tennessee",
+        "i18n": {
+          "ar": "تينيسي",
+          "bn": "টেনেসী",
+          "de": "Tennessee",
+          "el": "Τενεσί",
+          "en": "Tennessee",
+          "es": "Tennessee",
+          "fa": "تنسی",
+          "fr": "Tennessee",
+          "he": "טנסי",
+          "hi": "टेनेसी",
+          "hu": "Tennessee",
+          "id": "Tennessee",
+          "it": "Tennessee",
+          "ja": "テネシー州",
+          "ko": "테네시",
+          "nl": "Tennessee",
+          "pl": "Tennessee",
+          "pt": "Tennessee",
+          "ru": "Теннесси",
+          "sv": "Tennessee",
+          "tr": "Tennessee",
+          "uk": "Теннессі",
+          "ur": "ٹینیسی",
+          "vi": "Tennessee",
+          "zh": "田纳西州",
+          "zht": "田納西州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Теннесси",
+      "en": "Tennessee",
+      "ar": "تينيسي",
+      "de": "Tennessee",
+      "es": "Tennessee",
+      "fr": "Tennessee",
+      "it": "Tennessee",
+      "zh": "田纳西州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-WV",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-WV",
+        "state_name": "West Virginia",
+        "i18n": {
+          "ar": "فيرجينيا الغربية",
+          "bn": "পশ্চিম ভার্জিনিয়া",
+          "de": "West Virginia",
+          "el": "Δυτική Βιρτζίνια",
+          "en": "West Virginia",
+          "es": "Virginia Occidental",
+          "fa": "ویرجینیای غربی",
+          "fr": "Virginie-Occidentale",
+          "he": "וירג'יניה המערבית",
+          "hi": "पश्चिमी वर्जीनिया",
+          "hu": "Nyugat-Virginia",
+          "id": "Virginia Barat",
+          "it": "Virginia Occidentale",
+          "ja": "ウェストバージニア州",
+          "ko": "웨스트버지니아",
+          "nl": "West Virginia",
+          "pl": "Wirginia Zachodnia",
+          "pt": "Virgínia Ocidental",
+          "ru": "Западная Виргиния",
+          "sv": "West Virginia",
+          "tr": "Batı Virginia",
+          "uk": "Західна Вірджинія",
+          "ur": "مغربی ورجینیا",
+          "vi": "Tây Virginia",
+          "zh": "西維吉尼亞州",
+          "zht": "西維吉尼亞州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Западная Виргиния",
+      "en": "West Virginia",
+      "ar": "فيرجينيا الغربية",
+      "de": "West Virginia",
+      "es": "Virginia Occidental",
+      "fr": "Virginie-Occidentale",
+      "it": "Virginia Occidentale",
+      "zh": "西維吉尼亞州"
+    }
+  },
+  {
+    "country_a2": "US",
+    "region_code": "US-IN",
+    "region_name": "United States of America",
+    "states": [
+      {
+        "state_code": "US-IN",
+        "state_name": "Indiana",
+        "i18n": {
+          "ar": "إنديانا",
+          "bn": "ইন্ডিয়ানা",
+          "de": "Indiana",
+          "el": "Ιντιάνα",
+          "en": "Indiana",
+          "es": "Indiana",
+          "fa": "ایندیانا",
+          "fr": "Indiana",
+          "he": "אינדיאנה",
+          "hi": "इंडियाना",
+          "hu": "Indiana",
+          "id": "Indiana",
+          "it": "Indiana",
+          "ja": "インディアナ州",
+          "ko": "인디애나",
+          "nl": "Indiana",
+          "pl": "Indiana",
+          "pt": "Indiana",
+          "ru": "Индиана",
+          "sv": "Indiana",
+          "tr": "Indiana",
+          "uk": "Індіана",
+          "ur": "انڈیانا",
+          "vi": "Indiana",
+          "zh": "印第安纳州",
+          "zht": "印第安纳州"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Индиана",
+      "en": "Indiana",
+      "ar": "إنديانا",
+      "de": "Indiana",
+      "es": "Indiana",
+      "fr": "Indiana",
+      "it": "Indiana",
+      "zh": "印第安纳州"
+    }
+  },
+  {
+    "country_a2": "CA",
+    "region_code": "CA-YT",
+    "region_name": "Yukon",
+    "states": [
+      {
+        "state_code": "CA-YT",
+        "state_name": "Yukon",
+        "i18n": {
+          "ar": "يوكون",
+          "bn": "ইউকন",
+          "de": "Yukon",
+          "el": "Γιούκον",
+          "en": "Yukon",
+          "es": "Yukón",
+          "fa": "یوکان",
+          "fr": "Yukon",
+          "he": "יוקון",
+          "hi": "युकॉन प्रांत",
+          "hu": "Yukon",
+          "id": "Yukon",
+          "it": "Yukon",
+          "ja": "ユーコン準州",
+          "ko": "유콘 준",
+          "nl": "Yukon",
+          "pl": "Jukon",
+          "pt": "Yukon",
+          "ru": "Юкон",
+          "sv": "Yukon",
+          "tr": "Yukon",
+          "uk": "Юкон",
+          "ur": "يوكون",
+          "vi": "Yukon",
+          "zh": "育空",
+          "zht": "育空"
+        }
+      }
+    ],
+    "i18n": {
+      "ru": "Юкон",
+      "en": "Yukon",
+      "ar": "يوكون",
+      "de": "Yukon",
+      "es": "Yukón",
+      "fr": "Yukon",
+      "it": "Yukon",
+      "zh": "育空"
+    }
+  }
+]
